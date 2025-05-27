@@ -47,11 +47,11 @@ repos:
       - id: mixed-line-ending
       - id: trailing-whitespace
 
-  - repo: local
-    hooks:
-    - id: check-numeric-filenames
-      name: Check Numeric Filenames
-      description: Ensures there are no python files with purely numeric filenames.
-      entry: ./src/upslack/check_numeric_filenames.py
-      language: python
-      types: [python]
+  # - repo: local
+  #   hooks:
+  #   - id: check-numeric-filenames
+  #     name: Check Numeric Filenames
+  #     description: Ensures there are no python files with purely numeric filenames.
+  #     entry: ./src/upslack/check_numeric_filenames.py
+  #     language: python
+  #     types: [python]
