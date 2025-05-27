@@ -24,18 +24,20 @@ def compute_graphids(
     import json
 
     import graph_id_cpp
+    from graphid_dev.core.graphid import GraphID
     from pymatgen.core.structure import Structure
 
     structure = Structure.from_str(cif, fmt="cif")
     structure.merge_sites(mode="delete")
-    gen = graph_id_cpp.GraphIDGenerator()
+    gen = GraphID()
     minimum_distance_id = gen.get_id(structure)
 
     topo_minimum_distance_id = graph_id_cpp.GraphIDGenerator(topology_only=True).get_id(
         structure
     )
 
-    distance_clustering_id = ""
+    distance_clustering_gen = graph_id_cpp.GraphIDGenerator(rank_k=3, cutoff=6.0)
+    distance_clustering_id = distance_clustering_gen.get_id(structure)
 
     # JSON dictionary with graph IDs and metadata
     json_dict = {
