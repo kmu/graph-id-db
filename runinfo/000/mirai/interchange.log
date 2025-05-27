@@ -1,0 +1,11 @@
+2025-05-27 14:08:19.662 interchange:113 MainProcess(1782876) MainThread __init__ [INFO] Attempting connection to client at 127.0.0.1 on ports: 55712,55135,55652
+2025-05-27 14:08:19.663 interchange:125 MainProcess(1782876) MainThread __init__ [INFO] Connected to client
+2025-05-27 14:08:19.663 interchange:158 MainProcess(1782876) MainThread __init__ [INFO] Bound to ports 54196,54014 for incoming worker connections
+2025-05-27 14:08:19.663 interchange:176 MainProcess(1782876) MainThread __init__ [INFO] Platform info: {'parsl_v': '2024.11.11', 'python_v': '3.11.11', 'os': 'Linux', 'hostname': 'mirai1', 'dir': '/home/tanimoto/graphid-db'}
+2025-05-27 14:08:19.663 interchange:314 MainProcess(1782876) MainThread start [INFO] Starting main interchange method
+2025-05-27 14:08:19.663 interchange:207 MainProcess(1782876) Interchange-Task-Puller task_puller [INFO] Starting
+2025-05-27 14:08:34.911 interchange:409 MainProcess(1782876) MainThread process_task_outgoing_incoming [INFO] Adding manager: b'b096ade1ebc9' to ready queue
+2025-05-27 14:08:34.912 interchange:418 MainProcess(1782876) MainThread process_task_outgoing_incoming [INFO] Registration info for manager b'b096ade1ebc9': {'type': 'registration', 'parsl_v': '2024.11.11', 'python_v': '3.11.11', 'worker_count': 32, 'uid': 'b096ade1ebc9', 'block_id': '0', 'start_time': 1748322514.131544, 'prefetch_capacity': 0, 'max_capacity': 32, 'os': 'Linux', 'hostname': 'compute-2-2', 'dir': '/home/tanimoto/graphid-db', 'cpu_count': 32, 'total_memory': 99935186944}
+2025-05-27 14:08:34.912 interchange:436 MainProcess(1782876) MainThread process_task_outgoing_incoming [INFO] Manager b'b096ade1ebc9' has compatible Parsl version 2024.11.11
+2025-05-27 14:08:34.912 interchange:437 MainProcess(1782876) MainThread process_task_outgoing_incoming [INFO] Manager b'b096ade1ebc9' has compatible Python version 3.11
+2025-05-27 14:10:52.701 interchange:285 MainProcess(1782876) Interchange-Command _command_server [INFO] Received HOLD_WORKER for b'b096ade1ebc9'

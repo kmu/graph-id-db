@@ -1,0 +1,16 @@
+#!/bin/bash
+#$ -S /bin/bash
+#$ -o /home/tanimoto/graphid-db/runinfo/000/submit_scripts/parsl.mirai.block-0.1748322503.7931635.submit.stdout
+#$ -e /home/tanimoto/graphid-db/runinfo/000/submit_scripts/parsl.mirai.block-0.1748322503.7931635.submit.stderr
+#$ -cwd
+#$ -N iza
+#$ -q evans.q@compute-2-2,
+#$ -pe impi 1
+
+
+conda activate matf
+
+
+export JOBNAME="parsl.mirai.block-0.1748322503.7931635"
+
+process_worker_pool.py   -a 127.0.0.1,133.11.86.169,192.168.8.3,192.168.1.13 -p 0 -c 1.0 -m None --poll 10 --task_port=54196 --result_port=54014 --cert_dir None --logdir=/home/tanimoto/graphid-db/runinfo/000/mirai --block_id=0 --hb_period=30  --hb_threshold=120 --drain_period=None --cpu-affinity none  --mpi-launcher=mpiexec --available-accelerators 
