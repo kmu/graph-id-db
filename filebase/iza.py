@@ -8,7 +8,9 @@ from parsl_configs.config.config_mrok import ParslConfigGenerator
 
 
 @python_app(cache=True, ignore_for_cache=["out_dir"])
-def compute_graphids(cif: str, data_source: str, data_source_id: str, data_source_url: str, out_dir="."):
+def compute_graphids(
+    cif: str, data_source: str, data_source_id: str, data_source_url: str, out_dir="."
+):
     """
     Compute graph IDs for a structure given as CIF string.
 
@@ -29,7 +31,9 @@ def compute_graphids(cif: str, data_source: str, data_source_id: str, data_sourc
     gen = graph_id_cpp.GraphIDGenerator()
     minimum_distance_id = gen.get_id(structure)
 
-    topo_minimum_distance_id = graph_id_cpp.GraphIDGenerator(topology_only=True).get_id(structure)
+    topo_minimum_distance_id = graph_id_cpp.GraphIDGenerator(topology_only=True).get_id(
+        structure
+    )
 
     distance_clustering_id = ""
 
