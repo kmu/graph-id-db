@@ -1,0 +1,34 @@
+2025-05-27 14:08:35.938 worker_log:670 4163514 MainThread [INFO]  Worker 4 started
+2025-05-27 14:08:35.939 worker_log:783 4163514 MainThread [INFO]  Received executor task 6
+2025-05-27 14:08:38.453 worker_log:799 4163514 MainThread [INFO]  Completed executor task 6
+2025-05-27 14:08:38.461 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 6
+2025-05-27 14:08:38.471 worker_log:783 4163514 MainThread [INFO]  Received executor task 100
+2025-05-27 14:08:39.020 worker_log:799 4163514 MainThread [INFO]  Completed executor task 100
+2025-05-27 14:08:39.020 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 100
+2025-05-27 14:08:39.021 worker_log:783 4163514 MainThread [INFO]  Received executor task 121
+2025-05-27 14:08:39.095 worker_log:799 4163514 MainThread [INFO]  Completed executor task 121
+2025-05-27 14:08:39.095 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 121
+2025-05-27 14:08:39.108 worker_log:783 4163514 MainThread [INFO]  Received executor task 126
+2025-05-27 14:08:40.111 worker_log:799 4163514 MainThread [INFO]  Completed executor task 126
+2025-05-27 14:08:40.111 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 126
+2025-05-27 14:08:40.129 worker_log:783 4163514 MainThread [INFO]  Received executor task 162
+2025-05-27 14:08:40.338 worker_log:799 4163514 MainThread [INFO]  Completed executor task 162
+2025-05-27 14:08:40.343 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 162
+2025-05-27 14:08:40.355 worker_log:783 4163514 MainThread [INFO]  Received executor task 168
+2025-05-27 14:08:40.710 worker_log:799 4163514 MainThread [INFO]  Completed executor task 168
+2025-05-27 14:08:40.711 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 168
+2025-05-27 14:08:40.723 worker_log:783 4163514 MainThread [INFO]  Received executor task 183
+2025-05-27 14:08:40.983 worker_log:799 4163514 MainThread [INFO]  Completed executor task 183
+2025-05-27 14:08:40.984 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 183
+2025-05-27 14:08:40.994 worker_log:783 4163514 MainThread [INFO]  Received executor task 193
+2025-05-27 14:08:41.998 worker_log:799 4163514 MainThread [INFO]  Completed executor task 193
+2025-05-27 14:08:41.999 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 193
+2025-05-27 14:08:42.010 worker_log:783 4163514 MainThread [INFO]  Received executor task 224
+2025-05-27 14:08:42.290 worker_log:799 4163514 MainThread [INFO]  Completed executor task 224
+2025-05-27 14:08:42.290 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 224
+2025-05-27 14:08:42.291 worker_log:783 4163514 MainThread [INFO]  Received executor task 232
+2025-05-27 14:08:42.348 worker_log:799 4163514 MainThread [INFO]  Completed executor task 232
+2025-05-27 14:08:42.348 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 232
+2025-05-27 14:08:42.359 worker_log:783 4163514 MainThread [INFO]  Received executor task 235
+2025-05-27 14:08:43.357 worker_log:799 4163514 MainThread [INFO]  Completed executor task 235
+2025-05-27 14:08:43.357 worker_log:810 4163514 MainThread [INFO]  All processing finished for executor task 235
