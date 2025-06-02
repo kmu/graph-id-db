@@ -1,9 +1,137 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "UOS",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UOS",
-    "filehash": "85b0232e2f71450e73d9f83f26555cd74f811609c4056a73d4ca092f41db25e2"
-  }
-]
+{
+  "c17d5d7d1e96c1561d9ef6569fcdb767": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f65722da2e77722b411958064b7c4fbce8610f9f5542ff423bb0c4fe3bd899b6"
+    }
+  ],
+  "3D-7d3352fc9165856af3b74efae0464d5f": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f65722da2e77722b411958064b7c4fbce8610f9f5542ff423bb0c4fe3bd899b6"
+    }
+  ],
+  "SiO2-3D-c17d5d7d1e96c1561d9ef6569fcdb767": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f65722da2e77722b411958064b7c4fbce8610f9f5542ff423bb0c4fe3bd899b6"
+    }
+  ],
+  "e1196f5d23c4271a51ccd3e1fd41328f": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "caf72610dab17bb1b68bdbfd72d460b581addd9a131b71d894ed55c75118c82e"
+    }
+  ],
+  "3D-300ac2dacc59c46e34fd5c7e6a5bbbe8": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "caf72610dab17bb1b68bdbfd72d460b581addd9a131b71d894ed55c75118c82e"
+    }
+  ],
+  "SiO2-3D-e1196f5d23c4271a51ccd3e1fd41328f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "caf72610dab17bb1b68bdbfd72d460b581addd9a131b71d894ed55c75118c82e"
+    }
+  ],
+  "aed566230d25461f66e3acee8154291e": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f9484b8e88f9af8ee45789c26d6321ccef2611bd2f5f329d88f4c9888864d4f9"
+    }
+  ],
+  "3D-8c978cbae1cc528a3c9643396267fbe9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f9484b8e88f9af8ee45789c26d6321ccef2611bd2f5f329d88f4c9888864d4f9"
+    }
+  ],
+  "SiO2-3D-aed566230d25461f66e3acee8154291e": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f9484b8e88f9af8ee45789c26d6321ccef2611bd2f5f329d88f4c9888864d4f9"
+    }
+  ],
+  "8c43ca424d29770ad15980d060388b77": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af8dae3e82067aa5dda338f7597b4a4eb32738a1fabb877ae99f0e9cc31a4d5d"
+    }
+  ],
+  "3D-6d4cdcf7abb1af2a5c4682bbb450ad0e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af8dae3e82067aa5dda338f7597b4a4eb32738a1fabb877ae99f0e9cc31a4d5d"
+    }
+  ],
+  "SiO2-3D-8c43ca424d29770ad15980d060388b77": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af8dae3e82067aa5dda338f7597b4a4eb32738a1fabb877ae99f0e9cc31a4d5d"
+    }
+  ],
+  "5d6b51a6b35b9b07c0458a8e0cd28768": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "85b0232e2f71450e73d9f83f26555cd74f811609c4056a73d4ca092f41db25e2"
+    }
+  ],
+  "3D-35a385f0dfdc5d7d19f3a067c18bd5dc": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "85b0232e2f71450e73d9f83f26555cd74f811609c4056a73d4ca092f41db25e2"
+    }
+  ],
+  "SiO2-3D-5d6b51a6b35b9b07c0458a8e0cd28768": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "85b0232e2f71450e73d9f83f26555cd74f811609c4056a73d4ca092f41db25e2"
+    }
+  ]
+}

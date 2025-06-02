@@ -1,9 +1,677 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "MFI",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFI",
-    "filehash": "0f7f86144cc902a07c4bd77af49577375b20f7403365d51bc489a3ea59631cea"
-  }
-]
+{
+  "12fe4aae9a614e1b3ff9fc1673eb4fee": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e67e081febd303fa53bfe1af7bef64069ddf01ecea6481a6b1d4881f9c1ba6fe"
+    }
+  ],
+  "3D-6b5fd9c017dce2de84e236c0b5b69484": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e67e081febd303fa53bfe1af7bef64069ddf01ecea6481a6b1d4881f9c1ba6fe"
+    }
+  ],
+  "SiO2-3D-12fe4aae9a614e1b3ff9fc1673eb4fee": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e67e081febd303fa53bfe1af7bef64069ddf01ecea6481a6b1d4881f9c1ba6fe"
+    }
+  ],
+  "6b251ddd3506ee47c2527b180bcb163d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "593859a7f343dfb5dae8f7d789ecb2ec3f4c562b5027df9eb7bae1dff2c0ff00"
+    }
+  ],
+  "3D-5491a4135f9824bde098164aeaa68c49": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "593859a7f343dfb5dae8f7d789ecb2ec3f4c562b5027df9eb7bae1dff2c0ff00"
+    }
+  ],
+  "SiO2-3D-6b251ddd3506ee47c2527b180bcb163d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "593859a7f343dfb5dae8f7d789ecb2ec3f4c562b5027df9eb7bae1dff2c0ff00"
+    }
+  ],
+  "3c41f1711f26fc9ec49b7f7a13ea21a9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "d67e46352970860e178ade90310f1f78797d716abb487d29f16bd06964263ffe"
+    }
+  ],
+  "3D-46373708bc7ffc5b2becdf9de8d4ab33": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "d67e46352970860e178ade90310f1f78797d716abb487d29f16bd06964263ffe"
+    }
+  ],
+  "SiO2-3D-3c41f1711f26fc9ec49b7f7a13ea21a9": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "d67e46352970860e178ade90310f1f78797d716abb487d29f16bd06964263ffe"
+    }
+  ],
+  "0051e543a14c39bfda7ee5bb2330180f": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e366bb50f229fa83e7b561bede557db421b67c941bfba290e6ab1fe71c367c3a"
+    }
+  ],
+  "3D-1c501694ab47afb1c9c5651e626a1877": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e366bb50f229fa83e7b561bede557db421b67c941bfba290e6ab1fe71c367c3a"
+    }
+  ],
+  "SiO2-3D-0051e543a14c39bfda7ee5bb2330180f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e366bb50f229fa83e7b561bede557db421b67c941bfba290e6ab1fe71c367c3a"
+    }
+  ],
+  "e3c496c69c644b18b05612cf33976ebb": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af3cff21286f4b33259bdb4cc623c83162b3ed45bae56a5044b476888d187240"
+    }
+  ],
+  "3D-28333bb9f5ae4ec4c2c7a0eaa7c049ec": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af3cff21286f4b33259bdb4cc623c83162b3ed45bae56a5044b476888d187240"
+    }
+  ],
+  "SiO2-3D-e3c496c69c644b18b05612cf33976ebb": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "af3cff21286f4b33259bdb4cc623c83162b3ed45bae56a5044b476888d187240"
+    }
+  ],
+  "65d4e027bc6e79d3ae90608f9de4e3ba": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b2bb3728d575bcbdcbfa9fb6add51dbe3afc276759204ce3ad1fcbb26eeb9a3"
+    }
+  ],
+  "3D-206b6b794c7fda893772bbc81c60640e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b2bb3728d575bcbdcbfa9fb6add51dbe3afc276759204ce3ad1fcbb26eeb9a3"
+    }
+  ],
+  "SiO2-3D-65d4e027bc6e79d3ae90608f9de4e3ba": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b2bb3728d575bcbdcbfa9fb6add51dbe3afc276759204ce3ad1fcbb26eeb9a3"
+    }
+  ],
+  "2d83578fa127f497e72acb833f7e2055": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b71a14f84f943accc50cc18748062f17d44c170811762e242be7d86259675b8"
+    }
+  ],
+  "3D-cdcc1a3599b37e27cc712438ef6b1f07": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b71a14f84f943accc50cc18748062f17d44c170811762e242be7d86259675b8"
+    }
+  ],
+  "SiO2-3D-2d83578fa127f497e72acb833f7e2055": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8b71a14f84f943accc50cc18748062f17d44c170811762e242be7d86259675b8"
+    }
+  ],
+  "ab8a0d760956896eade09a6462e97a2b": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "de170d54115c8bb15e44eef9d1673bf7d3bbcdd56f25c42a113ff0f387549d97"
+    }
+  ],
+  "3D-d6cd132e6590f0abee0cea1910cac91e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "de170d54115c8bb15e44eef9d1673bf7d3bbcdd56f25c42a113ff0f387549d97"
+    }
+  ],
+  "SiO2-3D-ab8a0d760956896eade09a6462e97a2b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "de170d54115c8bb15e44eef9d1673bf7d3bbcdd56f25c42a113ff0f387549d97"
+    }
+  ],
+  "9bf9aec8190dea300480b8cd036bff05": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "645af76b5c8560a25220f90c86c553bfdbe78ce8e6e62c6d6d09474e5b81708c"
+    }
+  ],
+  "3D-d4b6cd75829e42f91ca82b1d5b010915": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "645af76b5c8560a25220f90c86c553bfdbe78ce8e6e62c6d6d09474e5b81708c"
+    }
+  ],
+  "SiO2-3D-9bf9aec8190dea300480b8cd036bff05": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "645af76b5c8560a25220f90c86c553bfdbe78ce8e6e62c6d6d09474e5b81708c"
+    }
+  ],
+  "3fbdc1b72b5902e7afd2edbe6bc8cbdb": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f3e876f83f226f4e094c14f137b42ddccf27dfca7f4026db3a6d4fc331bfb55d"
+    }
+  ],
+  "3D-2c247fdd9766ac56874456aadfd0d15e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f3e876f83f226f4e094c14f137b42ddccf27dfca7f4026db3a6d4fc331bfb55d"
+    }
+  ],
+  "SiO2-3D-3fbdc1b72b5902e7afd2edbe6bc8cbdb": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f3e876f83f226f4e094c14f137b42ddccf27dfca7f4026db3a6d4fc331bfb55d"
+    }
+  ],
+  "e3b1de9756e80ea9417375730d69a26d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "bc5fc3e23691a81580ea698607bc3f7410e400711043b13d5eaed2de538272f3"
+    }
+  ],
+  "3D-db624d88a6f8131590395cd19994920a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "bc5fc3e23691a81580ea698607bc3f7410e400711043b13d5eaed2de538272f3"
+    }
+  ],
+  "SiO2-3D-e3b1de9756e80ea9417375730d69a26d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "bc5fc3e23691a81580ea698607bc3f7410e400711043b13d5eaed2de538272f3"
+    }
+  ],
+  "98a0528e54d5dd4b263cbf619836f319": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7bb26cb4ed10c050b82a3bd12447f2c37d9d4ba141451206c3ec0144f346e447"
+    }
+  ],
+  "3D-b5242781c996856b4c54d0201877b148": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7bb26cb4ed10c050b82a3bd12447f2c37d9d4ba141451206c3ec0144f346e447"
+    }
+  ],
+  "SiO2-3D-98a0528e54d5dd4b263cbf619836f319": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7bb26cb4ed10c050b82a3bd12447f2c37d9d4ba141451206c3ec0144f346e447"
+    }
+  ],
+  "56fb9cbc71b6b22f624f51e3cda964d9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "55fe633f5f340165c83ddda8e0e19441db65cb870a06d828bdb9d20d5af84b7b"
+    }
+  ],
+  "3D-f0cd946e5acf3c6dd4f19686cb6182a0": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "55fe633f5f340165c83ddda8e0e19441db65cb870a06d828bdb9d20d5af84b7b"
+    }
+  ],
+  "SiO2-3D-56fb9cbc71b6b22f624f51e3cda964d9": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "55fe633f5f340165c83ddda8e0e19441db65cb870a06d828bdb9d20d5af84b7b"
+    }
+  ],
+  "117bdad0c42e4b0a917653520b9c69be": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "913eb977c7712924ea4f2bf81cd149577a48843f11ad6c8a8a6e6865dfc3c329"
+    }
+  ],
+  "3D-84f6b53d2043a830864b265b03e5218f": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "913eb977c7712924ea4f2bf81cd149577a48843f11ad6c8a8a6e6865dfc3c329"
+    }
+  ],
+  "SiO2-3D-117bdad0c42e4b0a917653520b9c69be": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "913eb977c7712924ea4f2bf81cd149577a48843f11ad6c8a8a6e6865dfc3c329"
+    }
+  ],
+  "e2a1575d090bb365c31ce1c8d5443c7a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2e57e137a1c02b57709619b6bdb084d93c7b59b8ce33edb8079286799a6db0e2"
+    }
+  ],
+  "3D-2f4366f9ab0e8347389f695417945075": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2e57e137a1c02b57709619b6bdb084d93c7b59b8ce33edb8079286799a6db0e2"
+    }
+  ],
+  "SiO2-3D-e2a1575d090bb365c31ce1c8d5443c7a": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2e57e137a1c02b57709619b6bdb084d93c7b59b8ce33edb8079286799a6db0e2"
+    }
+  ],
+  "daa38692b99e20b112f3a39bebd69850": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "617eeda592ba9548f404f7bebbd2d707e3b40ded590e1af656103d7dc1c33f13"
+    }
+  ],
+  "3D-2b7710cb97bdb94ae3ff064cdaab7e92": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "617eeda592ba9548f404f7bebbd2d707e3b40ded590e1af656103d7dc1c33f13"
+    }
+  ],
+  "SiO2-3D-daa38692b99e20b112f3a39bebd69850": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "617eeda592ba9548f404f7bebbd2d707e3b40ded590e1af656103d7dc1c33f13"
+    }
+  ],
+  "d99a9770924939d2cfd6847d6d8b0049": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9a6f5920d711f6243a88cb70c5de1d7f6d4ab7eb7c55c4fbbf9fde341fd8aed6"
+    }
+  ],
+  "3D-7d8fcc9372fc56cb438da25d5914c8bd": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9a6f5920d711f6243a88cb70c5de1d7f6d4ab7eb7c55c4fbbf9fde341fd8aed6"
+    }
+  ],
+  "SiO2-3D-d99a9770924939d2cfd6847d6d8b0049": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9a6f5920d711f6243a88cb70c5de1d7f6d4ab7eb7c55c4fbbf9fde341fd8aed6"
+    }
+  ],
+  "74a5b0ca57e928072c578f2265b69dc2": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8fb0ada7789574aa8ae39a30926299e31d904b5ba878ef1670f3bfe75cd7e754"
+    }
+  ],
+  "3D-b03122d843ff8b4f68f6c4face79a3a9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8fb0ada7789574aa8ae39a30926299e31d904b5ba878ef1670f3bfe75cd7e754"
+    }
+  ],
+  "SiO2-3D-74a5b0ca57e928072c578f2265b69dc2": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "8fb0ada7789574aa8ae39a30926299e31d904b5ba878ef1670f3bfe75cd7e754"
+    }
+  ],
+  "39f8e79d41c4162e6269110cc78d8843": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a099a9669e0473b9a8c2ba7d90a056da7a9366d980c360a3c5fdad572659a2bb"
+    }
+  ],
+  "3D-43777664c183f1ea4371366bfb2338d1": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a099a9669e0473b9a8c2ba7d90a056da7a9366d980c360a3c5fdad572659a2bb"
+    }
+  ],
+  "SiO2-3D-39f8e79d41c4162e6269110cc78d8843": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a099a9669e0473b9a8c2ba7d90a056da7a9366d980c360a3c5fdad572659a2bb"
+    }
+  ],
+  "35080fb77f23750f79b7ea2fb31cd572": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e36c6593655aecf668b3f9ff098a62f63e4b7e235b67ec3f0e11ccc1f1d0cae8"
+    }
+  ],
+  "3D-b6af4324d9c0652f18cbe913cf9e77d6": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e36c6593655aecf668b3f9ff098a62f63e4b7e235b67ec3f0e11ccc1f1d0cae8"
+    }
+  ],
+  "SiO2-3D-35080fb77f23750f79b7ea2fb31cd572": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e36c6593655aecf668b3f9ff098a62f63e4b7e235b67ec3f0e11ccc1f1d0cae8"
+    }
+  ],
+  "ac49733389a533cda463f3dc4de306a4": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "420b217a2f7bde3522bcdb86be36ceeaaf230f8877378d5da4f1888418a05ef6"
+    }
+  ],
+  "3D-34102bf25a5aba03e175eb91e4a7e51a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "420b217a2f7bde3522bcdb86be36ceeaaf230f8877378d5da4f1888418a05ef6"
+    }
+  ],
+  "SiO2-3D-ac49733389a533cda463f3dc4de306a4": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "420b217a2f7bde3522bcdb86be36ceeaaf230f8877378d5da4f1888418a05ef6"
+    }
+  ],
+  "6fa596bf3c6572112e0c14ed6af60aa7": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f96c79d2231a671fb40fd618cb2f75ea1d4f2d686bcc43443d755a3e1439bb2c"
+    }
+  ],
+  "3D-e41bd63fd5d726c923f122d3797271e9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f96c79d2231a671fb40fd618cb2f75ea1d4f2d686bcc43443d755a3e1439bb2c"
+    }
+  ],
+  "SiO2-3D-6fa596bf3c6572112e0c14ed6af60aa7": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f96c79d2231a671fb40fd618cb2f75ea1d4f2d686bcc43443d755a3e1439bb2c"
+    }
+  ],
+  "7048e00ca4d0fb474ea9d13043423c0a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "22f5cdcd6fa4e733157fc133684ae6f06078db909f974089f3dedee911b98ad4"
+    }
+  ],
+  "3D-ec18c32e26d4d55d1e6213d427657fd3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "22f5cdcd6fa4e733157fc133684ae6f06078db909f974089f3dedee911b98ad4"
+    }
+  ],
+  "SiO2-3D-7048e00ca4d0fb474ea9d13043423c0a": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "22f5cdcd6fa4e733157fc133684ae6f06078db909f974089f3dedee911b98ad4"
+    }
+  ],
+  "418c87d4e5915f151bbcdbb17ad40d19": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "51dce6402f99581ef187ead460123e24ef04ca4d47231bf9b872816b41e7ff53"
+    }
+  ],
+  "3D-72daa961c5417a93a98dbfbaad40e94c": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "51dce6402f99581ef187ead460123e24ef04ca4d47231bf9b872816b41e7ff53"
+    }
+  ],
+  "SiO2-3D-418c87d4e5915f151bbcdbb17ad40d19": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "51dce6402f99581ef187ead460123e24ef04ca4d47231bf9b872816b41e7ff53"
+    }
+  ],
+  "9e7bbec5bb57eeddc3dc5f731b866c97": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "0f7f86144cc902a07c4bd77af49577375b20f7403365d51bc489a3ea59631cea"
+    }
+  ],
+  "3D-06d85cdf5c2b6e71a4dd8beed79aa341": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "0f7f86144cc902a07c4bd77af49577375b20f7403365d51bc489a3ea59631cea"
+    }
+  ],
+  "SiO2-3D-9e7bbec5bb57eeddc3dc5f731b866c97": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "0f7f86144cc902a07c4bd77af49577375b20f7403365d51bc489a3ea59631cea"
+    }
+  ]
+}

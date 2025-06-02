@@ -1,9 +1,29 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "YUG",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=YUG",
-    "filehash": "6f915869f9fcc39538f85432686dc11f67927237bb77062d3e8a375fafad6463"
-  }
-]
+{
+  "2ce53ef0c79bfa5d859d6088c997781b": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6f915869f9fcc39538f85432686dc11f67927237bb77062d3e8a375fafad6463"
+    }
+  ],
+  "3D-322db0010df8c2633d3abcda35b8d020": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6f915869f9fcc39538f85432686dc11f67927237bb77062d3e8a375fafad6463"
+    }
+  ],
+  "SiO2-3D-2ce53ef0c79bfa5d859d6088c997781b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6f915869f9fcc39538f85432686dc11f67927237bb77062d3e8a375fafad6463"
+    }
+  ]
+}

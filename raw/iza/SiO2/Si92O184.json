@@ -1,9 +1,56 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "STI",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=STI",
-    "filehash": "30b1722428680cd42e5044ad39cf03b93ccbeec6ac9881ad7e174564e6278ebe"
-  }
-]
+{
+  "3bc0aa75b7a67be75709eee31977ddd3": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6a5eb1e8d7225faa095506e971c587f65c6ac2cf940e78c82d7ba783e9c53f27"
+    }
+  ],
+  "3D-0e9bacffd487981b78d9ee7316d8d2cd": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6a5eb1e8d7225faa095506e971c587f65c6ac2cf940e78c82d7ba783e9c53f27"
+    }
+  ],
+  "SiO2-3D-3bc0aa75b7a67be75709eee31977ddd3": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "6a5eb1e8d7225faa095506e971c587f65c6ac2cf940e78c82d7ba783e9c53f27"
+    }
+  ],
+  "01509e4a463566cbc4684f67bfb8bdf8": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "30b1722428680cd42e5044ad39cf03b93ccbeec6ac9881ad7e174564e6278ebe"
+    }
+  ],
+  "3D-ebfb7ae71fb7a442d8294a164d102f62": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "30b1722428680cd42e5044ad39cf03b93ccbeec6ac9881ad7e174564e6278ebe"
+    }
+  ],
+  "SiO2-3D-01509e4a463566cbc4684f67bfb8bdf8": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "30b1722428680cd42e5044ad39cf03b93ccbeec6ac9881ad7e174564e6278ebe"
+    }
+  ]
+}

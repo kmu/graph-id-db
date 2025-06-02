@@ -154,27 +154,22 @@ def assimilate_json_files(input_dir: str, output_dir: str) -> None:
                 entries_by_comp_str[comp_str][graph_id_value] = [entry]
 
     # Create output directory structure and write entries.json files
+    # Create directory: output_dir_path/reduced_composition_string/composition_string.json
+    dir_path = output_dir_path / "SiO2"
+    dir_path.mkdir(parents=True, exist_ok=True)
     for comp_str, _entries in entries_by_comp_str.items():
-        # Create directory: composition_hash/filehash_prefix/entries.json
-        for graph_id_value, entries in entries_by_comp_str[comp_str].items():
-            # for filehash_prefix in set(entry["filehash"][:2] for entry in entries.values()):
-            # dir_path = output_dir_path / comp_hash / filehash_prefix
-            dir_path = output_dir_path / "SiO2"
-            dir_path.mkdir(parents=True, exist_ok=True)
+        entries_assimilate_by_comp_str: Dict[str, list[Dict[str, str]]] = defaultdict(
+            list
+        )
+        for graph_id_value, entries in _entries.items():
+            entries_assimilate_by_comp_str[graph_id_value] = entries
 
-            # # Filter entries for this filehash prefix
-            # filtered_entries = {
-            #     graph_id: entry
-            #     for graph_id_type, graph_id_value in entries.items()
-            #     if graph_id_type in ["md_id", "topo_md_id", "dc_id"]
-            # }
+        # Write entries.json
+        entries_file = dir_path / f"{comp_str}.json"
+        with open(entries_file, "w") as f:
+            json.dump(entries_assimilate_by_comp_str, f, indent=2)
 
-            # Write entries.json
-            entries_file = dir_path / f"{comp_str}.json"
-            with open(entries_file, "w") as f:
-                json.dump(entries, f, indent=2)
-
-            print(f"Wrote {len(entries)} entries to {entries_file}")
+        print(f"Wrote {len(_entries)} entries to {entries_file}")
 
 
 def main():

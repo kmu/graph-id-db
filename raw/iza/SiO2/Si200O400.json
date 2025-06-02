@@ -1,9 +1,29 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "VET",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VET",
-    "filehash": "e482640a0b67d8f351a70e484124b92ad50429e6b70b77e0ff802776b57139fc"
-  }
-]
+{
+  "645e796fc7033d54280c7a2e9ad2a397": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e482640a0b67d8f351a70e484124b92ad50429e6b70b77e0ff802776b57139fc"
+    }
+  ],
+  "3D-1053aabe58bbafde18c41b5d3ce51c2f": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e482640a0b67d8f351a70e484124b92ad50429e6b70b77e0ff802776b57139fc"
+    }
+  ],
+  "SiO2-3D-645e796fc7033d54280c7a2e9ad2a397": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e482640a0b67d8f351a70e484124b92ad50429e6b70b77e0ff802776b57139fc"
+    }
+  ]
+}

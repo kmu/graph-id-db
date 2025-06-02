@@ -1,9 +1,191 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "STT",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=STT",
-    "filehash": "b6560af3d05cb1d7f5672cd956d75f5d03c45083264ee653397a6a8fc6b860a5"
-  }
-]
+{
+  "f813023598ecf10071f6a00e6ab4e2d9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a6093e3951b765a2f7295fa8f893941b7db121e87b2752140b63ed6cdfa61f2f"
+    }
+  ],
+  "3D-e68f63c73dc64c2c23736b2b2ab7dbf7": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a6093e3951b765a2f7295fa8f893941b7db121e87b2752140b63ed6cdfa61f2f"
+    }
+  ],
+  "SiO2-3D-f813023598ecf10071f6a00e6ab4e2d9": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a6093e3951b765a2f7295fa8f893941b7db121e87b2752140b63ed6cdfa61f2f"
+    }
+  ],
+  "6dea46079648a9814f568dfbfccc9575": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a38b5e4d7a00f87658c020cd7d4c01339880aa5addd65ca8dec6938822f3ea74"
+    }
+  ],
+  "3D-b29f72eef0e97c4a0e90721e3b2355a9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a38b5e4d7a00f87658c020cd7d4c01339880aa5addd65ca8dec6938822f3ea74"
+    }
+  ],
+  "SiO2-3D-6dea46079648a9814f568dfbfccc9575": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "a38b5e4d7a00f87658c020cd7d4c01339880aa5addd65ca8dec6938822f3ea74"
+    }
+  ],
+  "00ea3c84daefd86a8ecb1804e695f5a3": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "3cb92663a7a7fec78d22ec2dcb3220a51696ebba6cd46b43d1c46e5dcd4526ed"
+    }
+  ],
+  "3D-6fd19e423b792e9920926d8904f34ef6": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "3cb92663a7a7fec78d22ec2dcb3220a51696ebba6cd46b43d1c46e5dcd4526ed"
+    }
+  ],
+  "SiO2-3D-00ea3c84daefd86a8ecb1804e695f5a3": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "3cb92663a7a7fec78d22ec2dcb3220a51696ebba6cd46b43d1c46e5dcd4526ed"
+    }
+  ],
+  "90e528b3a788908aa3f73a6fe3ef957d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9db01e14070206f0d29d55149795743b1266b808d1ab6316c79ee379f89ee518"
+    }
+  ],
+  "3D-1e4d53d9cf55e9756d08935167b36b31": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9db01e14070206f0d29d55149795743b1266b808d1ab6316c79ee379f89ee518"
+    }
+  ],
+  "SiO2-3D-90e528b3a788908aa3f73a6fe3ef957d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9db01e14070206f0d29d55149795743b1266b808d1ab6316c79ee379f89ee518"
+    }
+  ],
+  "b943af8778a5eb509b216dae8f2a23a5": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9170779818110152b386cc6e4d33b5f013323d696e34078f139a58854a9751c0"
+    }
+  ],
+  "3D-463b01bd5f4eb25edaee921b41d3fc92": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9170779818110152b386cc6e4d33b5f013323d696e34078f139a58854a9751c0"
+    }
+  ],
+  "SiO2-3D-b943af8778a5eb509b216dae8f2a23a5": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9170779818110152b386cc6e4d33b5f013323d696e34078f139a58854a9751c0"
+    }
+  ],
+  "74e2362a4499c79d72c5043422fd830f": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "ca98ecbdf3211fad4b0cc95962bf60f2648477bb6825e14e301a5615455b0b8f"
+    }
+  ],
+  "3D-ff78154778e50f7ff6446fd69eb44947": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "ca98ecbdf3211fad4b0cc95962bf60f2648477bb6825e14e301a5615455b0b8f"
+    }
+  ],
+  "SiO2-3D-74e2362a4499c79d72c5043422fd830f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "ca98ecbdf3211fad4b0cc95962bf60f2648477bb6825e14e301a5615455b0b8f"
+    }
+  ],
+  "a31ecd3ecfb51b6c03fb350ba9a88124": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "b6560af3d05cb1d7f5672cd956d75f5d03c45083264ee653397a6a8fc6b860a5"
+    }
+  ],
+  "3D-83175fa9c55fbab2c7ac1090f8648a1e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "b6560af3d05cb1d7f5672cd956d75f5d03c45083264ee653397a6a8fc6b860a5"
+    }
+  ],
+  "SiO2-3D-a31ecd3ecfb51b6c03fb350ba9a88124": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "b6560af3d05cb1d7f5672cd956d75f5d03c45083264ee653397a6a8fc6b860a5"
+    }
+  ]
+}

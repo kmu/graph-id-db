@@ -1,9 +1,83 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "ESV",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ESV",
-    "filehash": "aeea4f2d58b24f554f0b54a26131d6714b5efaf6f67ab66226a510ff9dd29fbb"
-  }
-]
+{
+  "e8ea4a5e20cc86d7e4480976471fd098": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9bcca804a749571d87f1415268158e3c32caf5db6c4af7059e42a0e2ebc005d0"
+    }
+  ],
+  "3D-8dd5a897a8e3408abd38579a139d74d3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9bcca804a749571d87f1415268158e3c32caf5db6c4af7059e42a0e2ebc005d0"
+    }
+  ],
+  "SiO2-3D-e8ea4a5e20cc86d7e4480976471fd098": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "9bcca804a749571d87f1415268158e3c32caf5db6c4af7059e42a0e2ebc005d0"
+    }
+  ],
+  "109410561388177c696eccbecb728b21": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7163d5869fcf8d96f8f52afd773de79332ff9205a43162fc0c47b7a71c7477a8"
+    }
+  ],
+  "3D-0ae2c991b93ea46a22dd186ff1b172db": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7163d5869fcf8d96f8f52afd773de79332ff9205a43162fc0c47b7a71c7477a8"
+    }
+  ],
+  "SiO2-3D-109410561388177c696eccbecb728b21": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "7163d5869fcf8d96f8f52afd773de79332ff9205a43162fc0c47b7a71c7477a8"
+    }
+  ],
+  "c8b9cef6cc50a0aaeca6595133d0a45d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "aeea4f2d58b24f554f0b54a26131d6714b5efaf6f67ab66226a510ff9dd29fbb"
+    }
+  ],
+  "3D-2c18e0525f0ece7f47651ca40cf072ad": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "aeea4f2d58b24f554f0b54a26131d6714b5efaf6f67ab66226a510ff9dd29fbb"
+    }
+  ],
+  "SiO2-3D-c8b9cef6cc50a0aaeca6595133d0a45d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "aeea4f2d58b24f554f0b54a26131d6714b5efaf6f67ab66226a510ff9dd29fbb"
+    }
+  ]
+}

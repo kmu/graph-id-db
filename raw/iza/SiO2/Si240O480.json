@@ -1,9 +1,29 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "USI",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=USI",
-    "filehash": "e1bd4213effe34967a96c3c1234b0a745c22e44247e3a3562da482a27afb570f"
-  }
-]
+{
+  "d6e05c7194146253688e44fac62f8d91": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e1bd4213effe34967a96c3c1234b0a745c22e44247e3a3562da482a27afb570f"
+    }
+  ],
+  "3D-e3c46a45aff9bfbeea48bd9ef2298c03": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e1bd4213effe34967a96c3c1234b0a745c22e44247e3a3562da482a27afb570f"
+    }
+  ],
+  "SiO2-3D-d6e05c7194146253688e44fac62f8d91": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "e1bd4213effe34967a96c3c1234b0a745c22e44247e3a3562da482a27afb570f"
+    }
+  ]
+}

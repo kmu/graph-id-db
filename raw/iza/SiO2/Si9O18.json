@@ -1,9 +1,29 @@
-[
-  {
-    "graph_id_type": "dc_id",
-    "proprietary_id": "BCT",
-    "datasource": "International Zeolite Association",
-    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BCT",
-    "filehash": "f718f4d325484f0cc974c42f4614b1d893bedd953bad9834902b8faad991f472"
-  }
-]
+{
+  "69ed51720812a422657b98d46bfaa91b": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f718f4d325484f0cc974c42f4614b1d893bedd953bad9834902b8faad991f472"
+    }
+  ],
+  "3D-91583216721095ceb12e4c5957a52246": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f718f4d325484f0cc974c42f4614b1d893bedd953bad9834902b8faad991f472"
+    }
+  ],
+  "SiO2-3D-69ed51720812a422657b98d46bfaa91b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f718f4d325484f0cc974c42f4614b1d893bedd953bad9834902b8faad991f472"
+    }
+  ]
+}
