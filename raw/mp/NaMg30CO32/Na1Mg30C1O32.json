@@ -1,0 +1,54 @@
+{
+  "d776ab5b6a55c59c10fcc2df0c2c72af": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2a12c00ff65480d5a6e51f1022c1eb3ed121c3b6fcd5b99e0f59d626c6f8ace7"
+    }
+  ],
+  "93b5b3985d4da3d7e316f587b5f8b056": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2a12c00ff65480d5a6e51f1022c1eb3ed121c3b6fcd5b99e0f59d626c6f8ace7"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f2510b97a471c7461c2774390294e087627142a6a8acc4b11c301b3ae74ad58c"
+    }
+  ],
+  "56e4dde3b281ba052a25e0cb781df454": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "2a12c00ff65480d5a6e51f1022c1eb3ed121c3b6fcd5b99e0f59d626c6f8ace7"
+    }
+  ],
+  "08b92c60e6806997481720f3ac52a98d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f2510b97a471c7461c2774390294e087627142a6a8acc4b11c301b3ae74ad58c"
+    }
+  ],
+  "91c9f60e6dc68bcf772f3e3dfb347622": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "",
+      "datasource": "",
+      "url": "",
+      "filehash": "f2510b97a471c7461c2774390294e087627142a6a8acc4b11c301b3ae74ad58c"
+    }
+  ]
+}
