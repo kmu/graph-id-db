@@ -1,14 +1,35 @@
-import argparse
 from pathlib import Path
-
+import logging
 import parsl
 from parsl.app.app import python_app
 
+from parsl.config import Config
+import glob
+
+from parsl.channels import LocalChannel
+from parsl.executors import HighThroughputExecutor
+from parsl.launchers import SimpleLauncher
+from string import Template
+
+from parsl.providers import GridEngineProvider
+from parsl.providers.errors import SchedulerMissingArgs, ScriptPathError
+
+logger = logging.getLogger(__name__)
 
 @python_app(cache=True, ignore_for_cache=["out_dir"])
 def compute_graphids(
     cif: str, data_source: str, data_source_id: str, data_source_url: str, out_dir="."
 ):
+    """
+    Compute graph IDs for a structure given as CIF string.
+
+    Args:
+        cif: CIF string representing the structure
+        data_source: Name of the data source
+        data_source_id: ID of the structure in the data source
+        data_source_url: URL to the structure in the data source
+        out_dir: Directory to write the output JSON file
+    """
     import json
 
     import graph_id_cpp
@@ -17,16 +38,38 @@ def compute_graphids(
 
     structure = Structure.from_str(cif, fmt="cif")
     structure.merge_sites(mode="delete")
-    gen = GraphID()
+
+    # An error occurs in MinimumDistanceNN if len(neighs_dists) == 0 
+    for i in range(len(structure)):
+        site = structure[i]
+        neighs_dists = structure.get_neighbors(site, 10.0)
+
+        if len(neighs_dists) == 0:
+            json_dict = {
+                "md_id": "",
+                "topo_md_id": "",
+                "dc_id": "",
+                "data_source": data_source,
+                "data_source_id": data_source_id,
+                "data_source_url": data_source_url,
+            }
+            # Write JSON output file
+            with open(f"{out_dir}/{data_source_id}.json", "w") as f:
+                json.dump(json_dict, f)
+
+            return json_dict
+
+    gen = GraphID(digest_size=8)
     minimum_distance_id = gen.get_id(structure)
 
-    topo_minimum_distance_id = graph_id_cpp.GraphIDGenerator(topology_only=True).get_id(
+    topo_minimum_distance_id = graph_id_cpp.GraphIDGenerator(topology_only=True, digest_size=8).get_id(
         structure
     )
 
-    distance_clustering_gen = graph_id_cpp.GraphIDGenerator(rank_k=3, cutoff=6.0)
+    distance_clustering_gen = graph_id_cpp.GraphIDGenerator(rank_k=3, cutoff=6.0, digest_size=8)
     distance_clustering_id = distance_clustering_gen.get_id(structure)
 
+    # JSON dictionary with graph IDs and metadata
     json_dict = {
         "md_id": minimum_distance_id,
         "topo_md_id": topo_minimum_distance_id,

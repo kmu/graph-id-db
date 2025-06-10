@@ -1,57 +1,6 @@
-
-default_stages: [pre-commit]
-
-default_install_hook_types: [pre-commit, commit-msg]
-
-ci:
-  autoupdate_schedule: monthly
-  skip: [mypy]
-  autofix_commit_msg: pre-commit auto-fixes
-  autoupdate_commit_msg: pre-commit autoupdate
-
-repos:
-
-  - repo: https://github.com/psf/black
-    rev: 23.10.1
-    hooks:
-      - id: black
-
-  - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.1.1"
-    hooks:
-      - id: ruff
-        args: [--fix]
-
-  - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.6
-    hooks:
-      - id: codespell
-        stages: [pre-commit, commit-msg]
-        exclude_types: [html, json]
-        additional_dependencies: [tomli] # needed to read pyproject.toml below py3.11
-
-  - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: "v1.5.1"
-    hooks:
-      - id: mypy
-        args: [--ignore-missing-imports]
-        additional_dependencies: [types-PyYAML,types-pytz]
-
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
-    hooks:
-      - id: check-case-conflict
-      - id: check-symlinks
-      # - id: destroyed-symlinks
-      - id: end-of-file-fixer
-      - id: mixed-line-ending
-      - id: trailing-whitespace
-
-  # - repo: local
-  #   hooks:
-  #   - id: check-numeric-filenames
-  #     name: Check Numeric Filenames
-  #     description: Ensures there are no python files with purely numeric filenames.
-  #     entry: ./src/upslack/check_numeric_filenames.py
-  #     language: python
-  #     types: [python]
+- repo: https://github.com/pre-commit/mirrors-prettier
+  rev: v3.2.5  # Check for latest version
+  hooks:
+    - id: prettier
+      additional_dependencies: ['prettier@3.2.5']
+      files: \.json$
