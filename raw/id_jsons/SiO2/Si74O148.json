@@ -1,1 +1,29 @@
-{}
+{
+  "921ad53e91dcea68": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "SFG",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SFG",
+      "filehash": "3b30c2c53ab6b835cfddbeb86b8e2ac62db21800f04baa31530343adf8c6ef7b"
+    }
+  ],
+  "0d2fbf826db8419a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "SFG",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SFG",
+      "filehash": "3b30c2c53ab6b835cfddbeb86b8e2ac62db21800f04baa31530343adf8c6ef7b"
+    }
+  ],
+  "0b2f8dc3576c9047": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "SFG",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SFG",
+      "filehash": "3b30c2c53ab6b835cfddbeb86b8e2ac62db21800f04baa31530343adf8c6ef7b"
+    }
+  ]
+}

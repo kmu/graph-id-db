@@ -1,1 +1,29 @@
-{}
+{
+  "285b833e64a2a296": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "SEW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SEW",
+      "filehash": "dd9a2022992df8ef4bb33927b25d8d30020caf84552c9303ecc8fa324e73f99f"
+    }
+  ],
+  "b3a0fe9afc7e476a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "SEW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SEW",
+      "filehash": "dd9a2022992df8ef4bb33927b25d8d30020caf84552c9303ecc8fa324e73f99f"
+    }
+  ],
+  "5db71ca363d68a48": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "SEW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SEW",
+      "filehash": "dd9a2022992df8ef4bb33927b25d8d30020caf84552c9303ecc8fa324e73f99f"
+    }
+  ]
+}

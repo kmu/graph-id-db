@@ -1,1 +1,56 @@
-{}
+{
+  "f7a5d46f8342fc9b": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "UTL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UTL",
+      "filehash": "09ae46cd9c86b551e7540b2c7415f88d2e93f52c10e1c6ff575247acacca2458"
+    }
+  ],
+  "d3cea63f6517b1d4": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "UTL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UTL",
+      "filehash": "09ae46cd9c86b551e7540b2c7415f88d2e93f52c10e1c6ff575247acacca2458"
+    }
+  ],
+  "60d219301e0a620d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "UTL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UTL",
+      "filehash": "09ae46cd9c86b551e7540b2c7415f88d2e93f52c10e1c6ff575247acacca2458"
+    }
+  ],
+  "a04cd5dd5d10c1f4": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "OBW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=OBW",
+      "filehash": "fcf59be517f0256758c830c81270aeef107d3274d487bab1ad8731819c4faf10"
+    }
+  ],
+  "51c68f4d963de1f3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "OBW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=OBW",
+      "filehash": "fcf59be517f0256758c830c81270aeef107d3274d487bab1ad8731819c4faf10"
+    }
+  ],
+  "ae18c2341e106acd": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "OBW",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=OBW",
+      "filehash": "fcf59be517f0256758c830c81270aeef107d3274d487bab1ad8731819c4faf10"
+    }
+  ]
+}

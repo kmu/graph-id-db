@@ -1,137 +1,1249 @@
-{
-  "14b4a12f7e51c788": [
+[
     {
-      "graph_id_type": "md_id",
-      "proprietary_id": "mp-1249332",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
-      "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
-    }
-  ],
-  "3034839c3f4f3510": [
+        "14b4a12f7e51c788": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "mp-1249332",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
+                "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
+            },
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "ERI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+            }
+        ],
+        "3034839c3f4f3510": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "mp-1249332",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
+                "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
+            },
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "ERI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+            }
+        ],
+        "8a8791087ba269e2": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "mp-1249332",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
+                "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
+            }
+        ],
+        "ceb8f24a58a004b9": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "mp-1256614",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
+                "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
+            },
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "MAZ",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+            }
+        ],
+        "cc32f03dce76cb3a": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "mp-1256614",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
+                "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
+            },
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "MAZ",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+            }
+        ],
+        "052bcb077063e79e": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "mp-1256614",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
+                "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
+            }
+        ],
+        "a450131c7434e6ff": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "mp-558025",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558025",
+                "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
+            },
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "FER",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+            }
+        ],
+        "53ad0f1ab9d02fdf": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "mp-558025",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558025",
+                "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
+            },
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "FER",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+            }
+        ],
+        "14448d5ad48e7e32": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "mp-558025",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558025",
+                "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
+            }
+        ],
+        "f9a3813e0c6e069f": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "mp-639748",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-639748",
+                "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
+            },
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "PUN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+            }
+        ],
+        "6a6e4f4cf35aea16": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "mp-639748",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-639748",
+                "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
+            },
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "PUN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+            }
+        ],
+        "a93dd18d887d934c": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "mp-639748",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-639748",
+                "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
+            }
+        ],
+        "c9d8fd7b53a985fc": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "mp-558326",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558326",
+                "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
+            }
+        ],
+        "61023f893bce5dea": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "mp-558326",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558326",
+                "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
+            }
+        ],
+        "e3e1916af44cb5a9": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "mp-558326",
+                "datasource": "MP",
+                "url": "https://next-gen.materialsproject.org/materials/mp-558326",
+                "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
+            }
+        ],
+        "f6c5ace843c2f826": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "ERI",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                    "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+                }
+            ]
+        ],
+        "477605a48670f590": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "NPT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                    "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+                }
+            ]
+        ],
+        "4df2d2badf03ddd9": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "NPT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                    "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+                }
+            ]
+        ],
+        "5b0ebd0a43e276c6": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "NPT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                    "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+                }
+            ]
+        ],
+        "599c5e82b4901e82": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "LIO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                    "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+                }
+            ]
+        ],
+        "c7ad39497a7beb34": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "LIO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                    "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+                }
+            ]
+        ],
+        "443e3aaec2d17401": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "LIO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                    "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+                }
+            ]
+        ],
+        "4b0f404db8a2d221": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "EAB",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                    "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+                }
+            ]
+        ],
+        "87f94cde94ae750e": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "EAB",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                    "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+                }
+            ]
+        ],
+        "0e7a60c0569202f4": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "EAB",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                    "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+                }
+            ]
+        ],
+        "a782e471fac82835": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "CHA",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                    "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+                }
+            ]
+        ],
+        "b6ae0a9ae79505d9": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "CHA",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                    "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+                }
+            ]
+        ],
+        "e9a3c6c053fc3320": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "CHA",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                    "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+                }
+            ]
+        ],
+        "aa6ed22136010c5b": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "VFI",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                    "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+                }
+            ]
+        ],
+        "386a713d8129ab5c": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "VFI",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                    "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+                }
+            ]
+        ],
+        "b650bcdc6f33b252": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "VFI",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                    "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+                }
+            ]
+        ],
+        "09a8501b9c3ade59": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "RUT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                    "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+                }
+            ]
+        ],
+        "bf87213b07f5add8": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "RUT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                    "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+                }
+            ]
+        ],
+        "8632d7ee56eaa12d": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "RUT",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                    "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+                }
+            ]
+        ],
+        "fab286363fbd416e": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "LTL",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                    "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+                }
+            ]
+        ],
+        "81795865d39fb85b": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "LTL",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                    "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+                }
+            ]
+        ],
+        "f0b9c7da96950b44": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "LTL",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                    "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+                }
+            ]
+        ],
+        "c87b41e612a364a5": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "PUN",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                    "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+                }
+            ]
+        ],
+        "3ea41232b413e3f6": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "ATO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                    "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+                }
+            ]
+        ],
+        "a5764938a85acad7": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "ATO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                    "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+                }
+            ]
+        ],
+        "4040235f13f7db73": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "ATO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                    "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+                }
+            ]
+        ],
+        "c7d39d4966e60690": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "HEU",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                    "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+                }
+            ]
+        ],
+        "ef044514df30ad21": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "HEU",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                    "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+                }
+            ]
+        ],
+        "b81fa94acba24522": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "HEU",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                    "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+                }
+            ]
+        ],
+        "3dd80073d912c0d8": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "CGF",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                    "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+                }
+            ]
+        ],
+        "76edd2b8fc8c5b9e": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "CGF",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                    "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+                }
+            ]
+        ],
+        "d88706d0f1732d80": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "CGF",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                    "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+                }
+            ]
+        ],
+        "f401ca491e029827": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "SZR",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                    "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+                }
+            ]
+        ],
+        "f6704e69829956ee": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "SZR",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                    "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+                }
+            ]
+        ],
+        "b509277b69b15d39": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "SZR",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                    "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+                }
+            ]
+        ],
+        "544d02810cc3f375": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "MFS",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                    "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+                }
+            ]
+        ],
+        "c292d073c7dc2125": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "MFS",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                    "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+                }
+            ]
+        ],
+        "c56f169b13637e2b": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "MFS",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                    "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+                }
+            ]
+        ],
+        "b3fefaf1260d8b67": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "MAZ",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                    "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+                }
+            ]
+        ],
+        "4ef552139f09dd16": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "FER",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                    "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+                }
+            ]
+        ],
+        "dd82f54cf0bed952": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "CDO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                    "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+                }
+            ]
+        ],
+        "5ee19441fb93aaed": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "CDO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                    "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+                }
+            ]
+        ],
+        "db785711464acb83": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "CDO",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                    "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+                }
+            ]
+        ],
+        "5efc672543436d24": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "RSN",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                    "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+                }
+            ]
+        ],
+        "0ee13d4d9116f653": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "RSN",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                    "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+                }
+            ]
+        ],
+        "da79d84894a39c91": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "RSN",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                    "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+                }
+            ]
+        ],
+        "1aaa5b21de7312ad": [
+            [
+                {
+                    "graph_id_type": "md_id",
+                    "proprietary_id": "VSV",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                    "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+                }
+            ]
+        ],
+        "e668188958a46849": [
+            [
+                {
+                    "graph_id_type": "topo_md_id",
+                    "proprietary_id": "VSV",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                    "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+                }
+            ]
+        ],
+        "dd786df00adc310c": [
+            [
+                {
+                    "graph_id_type": "dc_id",
+                    "proprietary_id": "VSV",
+                    "datasource": "IZA",
+                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                    "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+                }
+            ]
+        ]
+    },
     {
-      "graph_id_type": "topo_md_id",
-      "proprietary_id": "mp-1249332",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
-      "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
+        "14b4a12f7e51c788": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "ERI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+            }
+        ],
+        "3034839c3f4f3510": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "ERI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+            }
+        ],
+        "f6c5ace843c2f826": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "ERI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ERI",
+                "filehash": "081249d06886f00cd3e5990629a8d755771ed6712aa8f667fa5f1db2a296d903"
+            }
+        ],
+        "477605a48670f590": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "NPT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+            }
+        ],
+        "4df2d2badf03ddd9": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "NPT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+            }
+        ],
+        "5b0ebd0a43e276c6": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "NPT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NPT",
+                "filehash": "f311d5e69c55308e4626fd16ef6b53f1a709d73e5499bac099c88f5b6c3ab3c1"
+            }
+        ],
+        "599c5e82b4901e82": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "LIO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+            }
+        ],
+        "c7ad39497a7beb34": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "LIO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+            }
+        ],
+        "443e3aaec2d17401": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "LIO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LIO",
+                "filehash": "88e0a0a974be0f0795ca9562e9f519b0303d8ad753e62604e0a619a20524f509"
+            }
+        ],
+        "4b0f404db8a2d221": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "EAB",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+            }
+        ],
+        "87f94cde94ae750e": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "EAB",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+            }
+        ],
+        "0e7a60c0569202f4": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "EAB",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EAB",
+                "filehash": "4b82cf7b91e89dda87bd33e3f900360b730ec081049dfa1cf3baf201c16ba029"
+            }
+        ],
+        "a782e471fac82835": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "CHA",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+            }
+        ],
+        "b6ae0a9ae79505d9": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "CHA",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+            }
+        ],
+        "e9a3c6c053fc3320": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "CHA",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CHA",
+                "filehash": "3a1aed4447897ea5ff1aee0f9bc90d89e615624cf35ca2fbeba9528913b5afb7"
+            }
+        ],
+        "aa6ed22136010c5b": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "VFI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+            }
+        ],
+        "386a713d8129ab5c": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "VFI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+            }
+        ],
+        "b650bcdc6f33b252": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "VFI",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VFI",
+                "filehash": "5da01ce341bc2acc2ba381afd68110f14299cb80b6ab7563afb309311f9750fc"
+            }
+        ],
+        "09a8501b9c3ade59": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "RUT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+            }
+        ],
+        "bf87213b07f5add8": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "RUT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+            }
+        ],
+        "8632d7ee56eaa12d": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "RUT",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RUT",
+                "filehash": "55ef02b8a3a17469fb7ab5e47adb561b8527bb0f38675abf14c442b48cf832c6"
+            }
+        ],
+        "fab286363fbd416e": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "LTL",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+            }
+        ],
+        "81795865d39fb85b": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "LTL",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+            }
+        ],
+        "f0b9c7da96950b44": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "LTL",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=LTL",
+                "filehash": "bee95534b179d95ca880a77bac508f43131f70847ecff1888b4205d0b1cd8256"
+            }
+        ],
+        "f9a3813e0c6e069f": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "PUN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+            }
+        ],
+        "6a6e4f4cf35aea16": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "PUN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+            }
+        ],
+        "c87b41e612a364a5": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "PUN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PUN",
+                "filehash": "cb4285bcaa819886b0eb82e38e7410ee32a07d607645d571eaa595abf0a9f2b2"
+            }
+        ],
+        "3ea41232b413e3f6": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "ATO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+            }
+        ],
+        "a5764938a85acad7": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "ATO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+            }
+        ],
+        "4040235f13f7db73": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "ATO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATO",
+                "filehash": "db65598c261fc96fe9d39217cd91c854ae74c92f40e2b8378466eb510dd3f8b6"
+            }
+        ],
+        "c7d39d4966e60690": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "HEU",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+            }
+        ],
+        "ef044514df30ad21": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "HEU",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+            }
+        ],
+        "b81fa94acba24522": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "HEU",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=HEU",
+                "filehash": "29a9aacb7f234094d96d0633eb6d8b6259b1f3f8824ac892374b9fb7d019f31f"
+            }
+        ],
+        "3dd80073d912c0d8": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "CGF",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+            }
+        ],
+        "76edd2b8fc8c5b9e": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "CGF",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+            }
+        ],
+        "d88706d0f1732d80": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "CGF",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CGF",
+                "filehash": "ce950ba1cacf8b22737d042e7292d3e1ff1cd5944e7c5cd93276a0963bc9b331"
+            }
+        ],
+        "f401ca491e029827": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "SZR",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+            }
+        ],
+        "f6704e69829956ee": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "SZR",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+            }
+        ],
+        "b509277b69b15d39": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "SZR",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SZR",
+                "filehash": "d8247e19a42f61d7f32f13fe7151e649c033126c72712b240cb2b0ac743e4ca1"
+            }
+        ],
+        "544d02810cc3f375": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "MFS",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+            }
+        ],
+        "c292d073c7dc2125": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "MFS",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+            }
+        ],
+        "c56f169b13637e2b": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "MFS",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MFS",
+                "filehash": "fddd6e7e509d78623ed6d4c4ebcca3f6d738fd4bec4442c7488136b436ee1ded"
+            }
+        ],
+        "ceb8f24a58a004b9": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "MAZ",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+            }
+        ],
+        "cc32f03dce76cb3a": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "MAZ",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+            }
+        ],
+        "b3fefaf1260d8b67": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "MAZ",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MAZ",
+                "filehash": "5a46aff4c1673e6d7fc70a51303e6cc7dbaa8649288d894362ac96de8fa653c0"
+            }
+        ],
+        "a450131c7434e6ff": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "FER",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+            }
+        ],
+        "53ad0f1ab9d02fdf": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "FER",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+            }
+        ],
+        "4ef552139f09dd16": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "FER",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=FER",
+                "filehash": "7b066a117fa255a41a7b7f96d669cb0d24d8033180ecb9a457969c563827dde3"
+            }
+        ],
+        "dd82f54cf0bed952": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "CDO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+            }
+        ],
+        "5ee19441fb93aaed": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "CDO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+            }
+        ],
+        "db785711464acb83": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "CDO",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CDO",
+                "filehash": "647547a28d2b723c5faaf06f38e439181a5aae279e2399730349cf509de4c7c6"
+            }
+        ],
+        "5efc672543436d24": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "RSN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+            }
+        ],
+        "0ee13d4d9116f653": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "RSN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+            }
+        ],
+        "da79d84894a39c91": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "RSN",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=RSN",
+                "filehash": "a75896e5e6eb38a989a760acb990d46814205964dd23d23100c3921f55e38f83"
+            }
+        ],
+        "1aaa5b21de7312ad": [
+            {
+                "graph_id_type": "md_id",
+                "proprietary_id": "VSV",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+            }
+        ],
+        "e668188958a46849": [
+            {
+                "graph_id_type": "topo_md_id",
+                "proprietary_id": "VSV",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+            }
+        ],
+        "dd786df00adc310c": [
+            {
+                "graph_id_type": "dc_id",
+                "proprietary_id": "VSV",
+                "datasource": "IZA",
+                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=VSV",
+                "filehash": "5528278d2219928801bb42aa95ef0860d13b8e5205c40e63cf8ccd34da33c996"
+            }
+        ]
     }
-  ],
-  "8a8791087ba269e2": [
-    {
-      "graph_id_type": "dc_id",
-      "proprietary_id": "mp-1249332",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1249332",
-      "filehash": "c435d0627ccf08d33e6ef2b37724406d3a8ac4780a0f40708b3dd6209d952531"
-    }
-  ],
-  "ceb8f24a58a004b9": [
-    {
-      "graph_id_type": "md_id",
-      "proprietary_id": "mp-1256614",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
-      "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
-    }
-  ],
-  "cc32f03dce76cb3a": [
-    {
-      "graph_id_type": "topo_md_id",
-      "proprietary_id": "mp-1256614",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
-      "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
-    }
-  ],
-  "052bcb077063e79e": [
-    {
-      "graph_id_type": "dc_id",
-      "proprietary_id": "mp-1256614",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-1256614",
-      "filehash": "af58125792e571b8b00cfb40baf466f81c0d1d701fca84c7e1b771762131d30d"
-    }
-  ],
-  "a450131c7434e6ff": [
-    {
-      "graph_id_type": "md_id",
-      "proprietary_id": "mp-558025",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558025",
-      "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
-    }
-  ],
-  "53ad0f1ab9d02fdf": [
-    {
-      "graph_id_type": "topo_md_id",
-      "proprietary_id": "mp-558025",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558025",
-      "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
-    }
-  ],
-  "14448d5ad48e7e32": [
-    {
-      "graph_id_type": "dc_id",
-      "proprietary_id": "mp-558025",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558025",
-      "filehash": "e10231e09cc54fd52e4a7e49ae0a8868a4ba18c808af3505a81d39010c57343b"
-    }
-  ],
-  "f9a3813e0c6e069f": [
-    {
-      "graph_id_type": "md_id",
-      "proprietary_id": "mp-639748",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-639748",
-      "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
-    }
-  ],
-  "6a6e4f4cf35aea16": [
-    {
-      "graph_id_type": "topo_md_id",
-      "proprietary_id": "mp-639748",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-639748",
-      "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
-    }
-  ],
-  "a93dd18d887d934c": [
-    {
-      "graph_id_type": "dc_id",
-      "proprietary_id": "mp-639748",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-639748",
-      "filehash": "6f8e74a4e4df1cee81054c3d168e2d86b8ccfd110fe68a0e88c1e180207f5fa7"
-    }
-  ],
-  "c9d8fd7b53a985fc": [
-    {
-      "graph_id_type": "md_id",
-      "proprietary_id": "mp-558326",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558326",
-      "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
-    }
-  ],
-  "61023f893bce5dea": [
-    {
-      "graph_id_type": "topo_md_id",
-      "proprietary_id": "mp-558326",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558326",
-      "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
-    }
-  ],
-  "e3e1916af44cb5a9": [
-    {
-      "graph_id_type": "dc_id",
-      "proprietary_id": "mp-558326",
-      "datasource": "MP",
-      "url": "https://next-gen.materialsproject.org/materials/mp-558326",
-      "filehash": "a016c217d1150ff0d8ab7c49579c012c8d83f56f608bfeeddfea189601467bef"
-    }
-  ]
-}
+]

@@ -1,1 +1,29 @@
-{}
+{
+  "3592fa97b4ac3415": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "UOV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UOV",
+      "filehash": "5e8174e1ca982c99eca81fc1bf71e867b523ea18121a5132e3ab86957b621c5e"
+    }
+  ],
+  "53b2bd7ec804a111": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "UOV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UOV",
+      "filehash": "5e8174e1ca982c99eca81fc1bf71e867b523ea18121a5132e3ab86957b621c5e"
+    }
+  ],
+  "e0dea8dde9d4c426": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "UOV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=UOV",
+      "filehash": "5e8174e1ca982c99eca81fc1bf71e867b523ea18121a5132e3ab86957b621c5e"
+    }
+  ]
+}

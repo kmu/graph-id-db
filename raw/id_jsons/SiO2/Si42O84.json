@@ -1,1 +1,29 @@
-{}
+{
+  "ebd1bd78cb0ee9ac": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "AVL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AVL",
+      "filehash": "11ce56cc243cd3842630759cd3a83da1bf1752336c029ad2d0029e7ce8e6fe1c"
+    }
+  ],
+  "0a074bd6468298fe": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "AVL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AVL",
+      "filehash": "11ce56cc243cd3842630759cd3a83da1bf1752336c029ad2d0029e7ce8e6fe1c"
+    }
+  ],
+  "827ad5ce66c610d9": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "AVL",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AVL",
+      "filehash": "11ce56cc243cd3842630759cd3a83da1bf1752336c029ad2d0029e7ce8e6fe1c"
+    }
+  ]
+}
