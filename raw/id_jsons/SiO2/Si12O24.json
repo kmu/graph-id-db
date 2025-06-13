@@ -1,1305 +1,1090 @@
-[
+{
+  "90418bbe4785fa37": [
     {
-        "90418bbe4785fa37": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-558564",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558564",
-                "filehash": "50f6f7e6488d43dd66a2ba333b4cca99591992325061eba3d03c551097d82888"
-            }
-        ],
-        "6c100a5061f153af": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-558564",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558564",
-                "filehash": "50f6f7e6488d43dd66a2ba333b4cca99591992325061eba3d03c551097d82888"
-            }
-        ],
-        "3c1f2a33c61cf11f": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-558564",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558564",
-                "filehash": "50f6f7e6488d43dd66a2ba333b4cca99591992325061eba3d03c551097d82888"
-            }
-        ],
-        "3fa0f567d3ff5541": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-558351",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558351",
-                "filehash": "da455443797116669eb7c85a69990d2fe7b5ef3614039f665690cc9c2b459055"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-557004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557004",
-                "filehash": "1a103b77d169015702fb9f3feaa1f84dc0d776130dc91fc830642737cbc85f04"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-557881",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557881",
-                "filehash": "b37f296e53b78e5ce82f8f664c3a04affcddf85f9a2f9c86166a05bd1d7249b6"
-            }
-        ],
-        "d4edd65faf7fcd31": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-558351",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558351",
-                "filehash": "da455443797116669eb7c85a69990d2fe7b5ef3614039f665690cc9c2b459055"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-557004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557004",
-                "filehash": "1a103b77d169015702fb9f3feaa1f84dc0d776130dc91fc830642737cbc85f04"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-557881",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557881",
-                "filehash": "b37f296e53b78e5ce82f8f664c3a04affcddf85f9a2f9c86166a05bd1d7249b6"
-            }
-        ],
-        "e3f23746d600b39b": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-558351",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558351",
-                "filehash": "da455443797116669eb7c85a69990d2fe7b5ef3614039f665690cc9c2b459055"
-            }
-        ],
-        "53318603637b0d18": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-18280",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-18280",
-                "filehash": "8597d9c1e8283cd7407f3d6b4eb2e7bbcde1e9283dcb491b3a05656802f7f44d"
-            }
-        ],
-        "4f1753ef3f7d884a": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-18280",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-18280",
-                "filehash": "8597d9c1e8283cd7407f3d6b4eb2e7bbcde1e9283dcb491b3a05656802f7f44d"
-            }
-        ],
-        "7ad14f422037ed6e": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-18280",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-18280",
-                "filehash": "8597d9c1e8283cd7407f3d6b4eb2e7bbcde1e9283dcb491b3a05656802f7f44d"
-            }
-        ],
-        "76fcc23b612624bb": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-557004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557004",
-                "filehash": "1a103b77d169015702fb9f3feaa1f84dc0d776130dc91fc830642737cbc85f04"
-            }
-        ],
-        "2942d3a161f7e7c9": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-556963",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556963",
-                "filehash": "bbe6bfbe112965af7eda8cf82afed7b4bf1b646f8c93ecd636b0bad590262776"
-            }
-        ],
-        "693ec7c10f2f2785": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-556963",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556963",
-                "filehash": "bbe6bfbe112965af7eda8cf82afed7b4bf1b646f8c93ecd636b0bad590262776"
-            }
-        ],
-        "3d94f58751d2baac": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-556963",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556963",
-                "filehash": "bbe6bfbe112965af7eda8cf82afed7b4bf1b646f8c93ecd636b0bad590262776"
-            }
-        ],
-        "49df8af5cc10cdbe": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-556044",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556044",
-                "filehash": "62508080cc361ce8212d318ff1ab6334bf385ecc99f2d50c5f9e38078267fcfb"
-            }
-        ],
-        "b2d2c7b56b489711": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-556044",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556044",
-                "filehash": "62508080cc361ce8212d318ff1ab6334bf385ecc99f2d50c5f9e38078267fcfb"
-            }
-        ],
-        "0a6ae97e247d8163": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-556044",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556044",
-                "filehash": "62508080cc361ce8212d318ff1ab6334bf385ecc99f2d50c5f9e38078267fcfb"
-            }
-        ],
-        "3f6f243fcfebc554": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-556464",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556464",
-                "filehash": "904d89e20e8165737f194755e1945ced3d9d58a7cd1b266d1d8f2872a7305f09"
-            }
-        ],
-        "5dcb5a584d941efc": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-556464",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556464",
-                "filehash": "904d89e20e8165737f194755e1945ced3d9d58a7cd1b266d1d8f2872a7305f09"
-            }
-        ],
-        "64f157851aea3f29": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-556464",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556464",
-                "filehash": "904d89e20e8165737f194755e1945ced3d9d58a7cd1b266d1d8f2872a7305f09"
-            }
-        ],
-        "38d00b8e116a54bd": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-17909",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-17909",
-                "filehash": "3c1ceb64741e09c3e64d9c67234a1becfa0dacfe0be645dbe0a7e246bea0d2c5"
-            }
-        ],
-        "a7d2223ff45e31e0": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-17909",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-17909",
-                "filehash": "3c1ceb64741e09c3e64d9c67234a1becfa0dacfe0be645dbe0a7e246bea0d2c5"
-            }
-        ],
-        "a59f0389a95287c4": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-17909",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-17909",
-                "filehash": "3c1ceb64741e09c3e64d9c67234a1becfa0dacfe0be645dbe0a7e246bea0d2c5"
-            }
-        ],
-        "b993ae3e5bfa1d94": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-559740",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559740",
-                "filehash": "542cbe76a05bbd5c495c07949503b1222e56eb421cac3212eea323bf21e718da"
-            }
-        ],
-        "9c4b1ac4a9a2d1a4": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-559740",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559740",
-                "filehash": "542cbe76a05bbd5c495c07949503b1222e56eb421cac3212eea323bf21e718da"
-            }
-        ],
-        "e227e2dc5a140d9d": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-559740",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559740",
-                "filehash": "542cbe76a05bbd5c495c07949503b1222e56eb421cac3212eea323bf21e718da"
-            }
-        ],
-        "bb9506c72b7e0b1a": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-557076",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557076",
-                "filehash": "f3e2c945052f62d53b0672262eab3fd379f9f36d69113a6c528cb3493d1c826d"
-            }
-        ],
-        "40c6407dbb0806ed": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-557076",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557076",
-                "filehash": "f3e2c945052f62d53b0672262eab3fd379f9f36d69113a6c528cb3493d1c826d"
-            }
-        ],
-        "c909e0781d8e1ad9": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-557076",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557076",
-                "filehash": "f3e2c945052f62d53b0672262eab3fd379f9f36d69113a6c528cb3493d1c826d"
-            }
-        ],
-        "2cff431059e959b8": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-561488",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-561488",
-                "filehash": "41e66439ce5c426a13b8bc335abd7a016c3a5a41aebb55e4bd6eec1e5cffce55"
-            }
-        ],
-        "1fc63d9160660acc": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-561488",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-561488",
-                "filehash": "41e66439ce5c426a13b8bc335abd7a016c3a5a41aebb55e4bd6eec1e5cffce55"
-            }
-        ],
-        "4873e7d4e231042f": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-561488",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-561488",
-                "filehash": "41e66439ce5c426a13b8bc335abd7a016c3a5a41aebb55e4bd6eec1e5cffce55"
-            }
-        ],
-        "554e531b8a76d59e": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-557771",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557771",
-                "filehash": "692d52b414193b116101d5a8b89ef978e55b6d168e4d061e8ecb555a8d0f4353"
-            }
-        ],
-        "2c31bb2168bbb9da": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-557771",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557771",
-                "filehash": "692d52b414193b116101d5a8b89ef978e55b6d168e4d061e8ecb555a8d0f4353"
-            }
-        ],
-        "c01098d85b114ea7": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-557771",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557771",
-                "filehash": "692d52b414193b116101d5a8b89ef978e55b6d168e4d061e8ecb555a8d0f4353"
-            }
-        ],
-        "f2f3921efa128758": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-555823",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555823",
-                "filehash": "82f2c94561dc9da1f4c1439578d2ac3a380cef0979415c7bdf5588698ee48731"
-            }
-        ],
-        "a9c19144d10c14e7": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-555823",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555823",
-                "filehash": "82f2c94561dc9da1f4c1439578d2ac3a380cef0979415c7bdf5588698ee48731"
-            }
-        ],
-        "d09692dba99bbead": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-555823",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555823",
-                "filehash": "82f2c94561dc9da1f4c1439578d2ac3a380cef0979415c7bdf5588698ee48731"
-            }
-        ],
-        "6ed402fe51d45bda": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-554498",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-554498",
-                "filehash": "d52b6eee8778d9109e83f6ae66551ffab063d0f859fa0e463030e8f253fb5431"
-            }
-        ],
-        "638744619fca624c": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-554498",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-554498",
-                "filehash": "d52b6eee8778d9109e83f6ae66551ffab063d0f859fa0e463030e8f253fb5431"
-            }
-        ],
-        "46725f53e49deec7": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-554498",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-554498",
-                "filehash": "d52b6eee8778d9109e83f6ae66551ffab063d0f859fa0e463030e8f253fb5431"
-            }
-        ],
-        "a489b1c1eda39f90": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-555355",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555355",
-                "filehash": "6c1a57a1f16da222dad31e4d5e95bc4f43a42aabea84b02b8ad6d5f07f2a9956"
-            }
-        ],
-        "4e396b7ab9d3783d": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-555355",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555355",
-                "filehash": "6c1a57a1f16da222dad31e4d5e95bc4f43a42aabea84b02b8ad6d5f07f2a9956"
-            }
-        ],
-        "58534f17e3d306f5": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-555355",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-555355",
-                "filehash": "6c1a57a1f16da222dad31e4d5e95bc4f43a42aabea84b02b8ad6d5f07f2a9956"
-            }
-        ],
-        "389ee670c53a0ceb": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-557723",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557723",
-                "filehash": "591e6868a9e11784af28e79eaf770ffcc5b8190e2d8679dfd6362b0292b51ea7"
-            }
-        ],
-        "5026298ff340a0a9": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-557723",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557723",
-                "filehash": "591e6868a9e11784af28e79eaf770ffcc5b8190e2d8679dfd6362b0292b51ea7"
-            }
-        ],
-        "61539028d01d0006": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-557723",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557723",
-                "filehash": "591e6868a9e11784af28e79eaf770ffcc5b8190e2d8679dfd6362b0292b51ea7"
-            }
-        ],
-        "8875e8c39a1edde6": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-560836",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560836",
-                "filehash": "32a6dcf1e0a7a26c0c66eef2a9df9e51658d79a80badc96ec7ec3f3221cbc2cd"
-            }
-        ],
-        "ba15e34f26e907a9": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-560836",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560836",
-                "filehash": "32a6dcf1e0a7a26c0c66eef2a9df9e51658d79a80badc96ec7ec3f3221cbc2cd"
-            }
-        ],
-        "e01d1b7688fc910c": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-560836",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560836",
-                "filehash": "32a6dcf1e0a7a26c0c66eef2a9df9e51658d79a80badc96ec7ec3f3221cbc2cd"
-            }
-        ],
-        "2aa9b9169885aa67": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-556537",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556537",
-                "filehash": "797acee6583d2f7fae01b669334a26d949a053ef5ff0c9124641997953c32dfd"
-            }
-        ],
-        "f6a8ad47e0fe6632": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-556537",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556537",
-                "filehash": "797acee6583d2f7fae01b669334a26d949a053ef5ff0c9124641997953c32dfd"
-            }
-        ],
-        "3fb4744a185f4fdd": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-556537",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556537",
-                "filehash": "797acee6583d2f7fae01b669334a26d949a053ef5ff0c9124641997953c32dfd"
-            }
-        ],
-        "03e08045b822e046": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-638049",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-638049",
-                "filehash": "a390d3a5ec162b1ec5a91f7a6f72079669038ebf37f57b881769bf9907d536fc"
-            }
-        ],
-        "c7f9e76a7a0c65ff": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-638049",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-638049",
-                "filehash": "a390d3a5ec162b1ec5a91f7a6f72079669038ebf37f57b881769bf9907d536fc"
-            }
-        ],
-        "3bd8dbec0791f786": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-638049",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-638049",
-                "filehash": "a390d3a5ec162b1ec5a91f7a6f72079669038ebf37f57b881769bf9907d536fc"
-            }
-        ],
-        "d4f14d6683aedb7a": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-558598",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558598",
-                "filehash": "143743c2cab1556ad3f807e512653a8a502db32975c8639a2d3a946dc0207dce"
-            }
-        ],
-        "108ce939f8565486": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-558598",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558598",
-                "filehash": "143743c2cab1556ad3f807e512653a8a502db32975c8639a2d3a946dc0207dce"
-            }
-        ],
-        "d106b7df4cd0bbd3": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-558598",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558598",
-                "filehash": "143743c2cab1556ad3f807e512653a8a502db32975c8639a2d3a946dc0207dce"
-            }
-        ],
-        "b549d5216c19e784": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-600033",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600033",
-                "filehash": "454ad311824d0ac9cc33070a17fe55e59a96ad492ed4a0d972dd71935b01dd5b"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "dda441b3c72f9749": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-600033",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600033",
-                "filehash": "454ad311824d0ac9cc33070a17fe55e59a96ad492ed4a0d972dd71935b01dd5b"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "b85e22a530a8cf49": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-600033",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600033",
-                "filehash": "454ad311824d0ac9cc33070a17fe55e59a96ad492ed4a0d972dd71935b01dd5b"
-            },
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "fadbcaf5bf120d01": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-558891",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558891",
-                "filehash": "472cec64239cc2f38c7b9aaef9bf051d57462c774af2f41d4a1789d99d6a1754"
-            }
-        ],
-        "b47dfcac6d973c7b": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-558891",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558891",
-                "filehash": "472cec64239cc2f38c7b9aaef9bf051d57462c774af2f41d4a1789d99d6a1754"
-            }
-        ],
-        "a323efad43c46451": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-558891",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-558891",
-                "filehash": "472cec64239cc2f38c7b9aaef9bf051d57462c774af2f41d4a1789d99d6a1754"
-            }
-        ],
-        "acf16b7d47313780": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-600026",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600026",
-                "filehash": "e8eeee6ec823aef72d07ae6c1eb3c36b3620aa827a877011d5c996447561f139"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "MVY",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-            }
-        ],
-        "8274a26e7e79063d": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-600026",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600026",
-                "filehash": "e8eeee6ec823aef72d07ae6c1eb3c36b3620aa827a877011d5c996447561f139"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "MVY",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-            }
-        ],
-        "2b039553ecb0d20f": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-600026",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600026",
-                "filehash": "e8eeee6ec823aef72d07ae6c1eb3c36b3620aa827a877011d5c996447561f139"
-            }
-        ],
-        "9783cff96b149834": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-16964",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-16964",
-                "filehash": "17b45d67eae4cd60f380fa3ba7b71d652cd7dbcbfb5c611a06fc66e86dfe0e72"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-556218",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556218",
-                "filehash": "6e6f9a3a0e7f38a2343418c7a57d136eec8332d033851068ecc47f7aef29a093"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-560826",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560826",
-                "filehash": "63f53c2183ed441ff1ba5dca89fb7c4f48f66119b4da85c4f897b3150a5c9bd3"
-            }
-        ],
-        "3073790793e062bf": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-16964",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-16964",
-                "filehash": "17b45d67eae4cd60f380fa3ba7b71d652cd7dbcbfb5c611a06fc66e86dfe0e72"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-556218",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556218",
-                "filehash": "6e6f9a3a0e7f38a2343418c7a57d136eec8332d033851068ecc47f7aef29a093"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-560826",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560826",
-                "filehash": "63f53c2183ed441ff1ba5dca89fb7c4f48f66119b4da85c4f897b3150a5c9bd3"
-            }
-        ],
-        "574755df15c592db": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-16964",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-16964",
-                "filehash": "17b45d67eae4cd60f380fa3ba7b71d652cd7dbcbfb5c611a06fc66e86dfe0e72"
-            }
-        ],
-        "ad4e767fd54d5a7f": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-556218",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-556218",
-                "filehash": "6e6f9a3a0e7f38a2343418c7a57d136eec8332d033851068ecc47f7aef29a093"
-            }
-        ],
-        "75dcf1f7f449999a": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-600071",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600071",
-                "filehash": "127a43536c168e5d1a46bf47d3c4e827abc08a89457e077fbf96792087ac0a96"
-            }
-        ],
-        "e2aa2d8f5a136354": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-600071",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600071",
-                "filehash": "127a43536c168e5d1a46bf47d3c4e827abc08a89457e077fbf96792087ac0a96"
-            }
-        ],
-        "15c738a45d4dc820": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-600071",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600071",
-                "filehash": "127a43536c168e5d1a46bf47d3c4e827abc08a89457e077fbf96792087ac0a96"
-            }
-        ],
-        "a6948dc65cb5ecce": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-600007",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600007",
-                "filehash": "e34b760095dc414b3d79f489c694e035bc30bc6634fb11670fb402f203236f57"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "ATT",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-            }
-        ],
-        "2e692599d74c16ec": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-600007",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600007",
-                "filehash": "e34b760095dc414b3d79f489c694e035bc30bc6634fb11670fb402f203236f57"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "ATT",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-            }
-        ],
-        "442f12f5732c53ed": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-600007",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600007",
-                "filehash": "e34b760095dc414b3d79f489c694e035bc30bc6634fb11670fb402f203236f57"
-            }
-        ],
-        "9adb22bfddc7f6a7": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-560203",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560203",
-                "filehash": "347bae06efc45b152cfd22f19501e7c4b21af92afae795677a80e718e24133b4"
-            }
-        ],
-        "bdf2b58727a62a0a": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-560203",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560203",
-                "filehash": "347bae06efc45b152cfd22f19501e7c4b21af92afae795677a80e718e24133b4"
-            }
-        ],
-        "de8f23e29c8e42cb": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-560203",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560203",
-                "filehash": "347bae06efc45b152cfd22f19501e7c4b21af92afae795677a80e718e24133b4"
-            }
-        ],
-        "4cd3fc8df4d4d571": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-560826",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-560826",
-                "filehash": "63f53c2183ed441ff1ba5dca89fb7c4f48f66119b4da85c4f897b3150a5c9bd3"
-            }
-        ],
-        "3aa2b5c6f26a039a": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-600004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600004",
-                "filehash": "154d7051f62fbf148427ef1f2cbbb2e4058cb924db6a06ca3836a7a28279ba7a"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ],
-        "1d465c8caec69b9d": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-600004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600004",
-                "filehash": "154d7051f62fbf148427ef1f2cbbb2e4058cb924db6a06ca3836a7a28279ba7a"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ],
-        "0ca53705549f5671": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-600004",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-600004",
-                "filehash": "154d7051f62fbf148427ef1f2cbbb2e4058cb924db6a06ca3836a7a28279ba7a"
-            },
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ],
-        "847866298d5d81a1": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-559872",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559872",
-                "filehash": "ba41a8aaaaf6e13241b83bf9ae862cfae541f910cb39a02810c675f714890b71"
-            }
-        ],
-        "6a2dd44e5b08c7a4": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-559872",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559872",
-                "filehash": "ba41a8aaaaf6e13241b83bf9ae862cfae541f910cb39a02810c675f714890b71"
-            }
-        ],
-        "92ddd6b3b3697a34": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-559872",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-559872",
-                "filehash": "ba41a8aaaaf6e13241b83bf9ae862cfae541f910cb39a02810c675f714890b71"
-            }
-        ],
-        "16d677519e6535d5": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-1179529",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
-                "filehash": "1574f98be5fa96c0f0007b4b3de129276617308cc6e86536372b817a934cd595"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-604717",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-604717",
-                "filehash": "b6b6a83d23a6a7f34d83c07f02bc5ba97a1312e6d8cc4481fb0757bc225db914"
-            },
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "mp-1353259",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
-                "filehash": "824f7661fea982ac054974a854e23bc57d8f9a54a95ebc8466dd6f1b40529a7c"
-            }
-        ],
-        "af5dd2b066c8b3b1": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-1179529",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
-                "filehash": "1574f98be5fa96c0f0007b4b3de129276617308cc6e86536372b817a934cd595"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-604717",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-604717",
-                "filehash": "b6b6a83d23a6a7f34d83c07f02bc5ba97a1312e6d8cc4481fb0757bc225db914"
-            },
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "mp-1353259",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
-                "filehash": "824f7661fea982ac054974a854e23bc57d8f9a54a95ebc8466dd6f1b40529a7c"
-            }
-        ],
-        "921941fdca7a2b23": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-1179529",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
-                "filehash": "1574f98be5fa96c0f0007b4b3de129276617308cc6e86536372b817a934cd595"
-            },
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-1353259",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
-                "filehash": "824f7661fea982ac054974a854e23bc57d8f9a54a95ebc8466dd6f1b40529a7c"
-            }
-        ],
-        "5f7e2ab69272ec8e": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-604717",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-604717",
-                "filehash": "b6b6a83d23a6a7f34d83c07f02bc5ba97a1312e6d8cc4481fb0757bc225db914"
-            }
-        ],
-        "bbba773d92a238c2": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "mp-557881",
-                "datasource": "MP",
-                "url": "https://next-gen.materialsproject.org/materials/mp-557881",
-                "filehash": "b37f296e53b78e5ce82f8f664c3a04affcddf85f9a2f9c86166a05bd1d7249b6"
-            }
-        ],
-        "5383f66e64682de6": [
-            [
-                {
-                    "graph_id_type": "md_id",
-                    "proprietary_id": "CAN",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                    "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-                }
-            ]
-        ],
-        "7b0a10a40181f6f6": [
-            [
-                {
-                    "graph_id_type": "topo_md_id",
-                    "proprietary_id": "CAN",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                    "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-                }
-            ]
-        ],
-        "e1a5da6cbd20a073": [
-            [
-                {
-                    "graph_id_type": "dc_id",
-                    "proprietary_id": "CAN",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                    "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-                }
-            ]
-        ],
-        "b394b2b55c6b43c9": [
-            [
-                {
-                    "graph_id_type": "md_id",
-                    "proprietary_id": "NSI",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                    "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-                }
-            ]
-        ],
-        "0520e103b0f97da3": [
-            [
-                {
-                    "graph_id_type": "topo_md_id",
-                    "proprietary_id": "NSI",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                    "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-                }
-            ]
-        ],
-        "d1a4a729a37d8760": [
-            [
-                {
-                    "graph_id_type": "dc_id",
-                    "proprietary_id": "NSI",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                    "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-                }
-            ]
-        ],
-        "7ab0588227f8d597": [
-            [
-                {
-                    "graph_id_type": "md_id",
-                    "proprietary_id": "EOS",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                    "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-                }
-            ]
-        ],
-        "e0cdc0abc7349dc3": [
-            [
-                {
-                    "graph_id_type": "topo_md_id",
-                    "proprietary_id": "EOS",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                    "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-                }
-            ]
-        ],
-        "e791b1e5e792db96": [
-            [
-                {
-                    "graph_id_type": "dc_id",
-                    "proprietary_id": "EOS",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                    "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-                }
-            ]
-        ],
-        "50acdc6002af4f96": [
-            [
-                {
-                    "graph_id_type": "dc_id",
-                    "proprietary_id": "ATT",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                    "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-                }
-            ]
-        ],
-        "712cf9173d310865": [
-            [
-                {
-                    "graph_id_type": "dc_id",
-                    "proprietary_id": "MVY",
-                    "datasource": "IZA",
-                    "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                    "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-                }
-            ]
-        ]
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-558564",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558564",
+      "filehash": "40fd1781b6d2ce52"
+    }
+  ],
+  "6c100a5061f153af": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-558564",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558564",
+      "filehash": "40fd1781b6d2ce52"
+    }
+  ],
+  "3c1f2a33c61cf11f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-558564",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558564",
+      "filehash": "40fd1781b6d2ce52"
+    }
+  ],
+  "3fa0f567d3ff5541": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-558351",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558351",
+      "filehash": "ea1923aefc65b2af"
     },
     {
-        "b549d5216c19e784": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "dda441b3c72f9749": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "b85e22a530a8cf49": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "SOD",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
-                "filehash": "18c6dd961f0fd0b7bc710dba6b5f83aa7f42f10fe15d21185f4f1067cf3f39ad"
-            }
-        ],
-        "5383f66e64682de6": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "CAN",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-            }
-        ],
-        "7b0a10a40181f6f6": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "CAN",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-            }
-        ],
-        "e1a5da6cbd20a073": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "CAN",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
-                "filehash": "e5a863f70b54e9ee1b6613804e8ae9b011c3db17e21e5bb2a3f702d7bcf04f8b"
-            }
-        ],
-        "b394b2b55c6b43c9": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "NSI",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-            }
-        ],
-        "0520e103b0f97da3": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "NSI",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-            }
-        ],
-        "d1a4a729a37d8760": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "NSI",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
-                "filehash": "05e04a6da3ea912a90963742abc769918bf7b8a6a3bf5f35f4e127384bba6d99"
-            }
-        ],
-        "7ab0588227f8d597": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "EOS",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-            }
-        ],
-        "e0cdc0abc7349dc3": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "EOS",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-            }
-        ],
-        "e791b1e5e792db96": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "EOS",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
-                "filehash": "33090d4df70c21c8297490113eea8d2b5b6101699f1cdecd00100b9b991449db"
-            }
-        ],
-        "a6948dc65cb5ecce": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "ATT",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-            }
-        ],
-        "2e692599d74c16ec": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "ATT",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-            }
-        ],
-        "50acdc6002af4f96": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "ATT",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
-                "filehash": "adecb4e4c2c08232aceec6bfb3224bdb0d682f3e053fef3cffcb0ab68d0b8f9e"
-            }
-        ],
-        "acf16b7d47313780": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "MVY",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-            }
-        ],
-        "8274a26e7e79063d": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "MVY",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-            }
-        ],
-        "712cf9173d310865": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "MVY",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
-                "filehash": "d4871f7381f2795f05a10d2ab35d510b6802047f78e3af354aac70974e93b74a"
-            }
-        ],
-        "3aa2b5c6f26a039a": [
-            {
-                "graph_id_type": "md_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ],
-        "1d465c8caec69b9d": [
-            {
-                "graph_id_type": "topo_md_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ],
-        "0ca53705549f5671": [
-            {
-                "graph_id_type": "dc_id",
-                "proprietary_id": "BIK",
-                "datasource": "IZA",
-                "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
-                "filehash": "55d6749e7005d2a229bc8e74c803926d397842167a7936afe083f08356d17159"
-            }
-        ]
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-557004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557004",
+      "filehash": "43807b9c2a98f770"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-557881",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557881",
+      "filehash": "defd0e77d5902245"
     }
-]
+  ],
+  "d4edd65faf7fcd31": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-558351",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558351",
+      "filehash": "ea1923aefc65b2af"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-557004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557004",
+      "filehash": "43807b9c2a98f770"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-557881",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557881",
+      "filehash": "defd0e77d5902245"
+    }
+  ],
+  "e3f23746d600b39b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-558351",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558351",
+      "filehash": "ea1923aefc65b2af"
+    }
+  ],
+  "53318603637b0d18": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-18280",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-18280",
+      "filehash": "b6ba14bb8453b5bd"
+    }
+  ],
+  "4f1753ef3f7d884a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-18280",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-18280",
+      "filehash": "b6ba14bb8453b5bd"
+    }
+  ],
+  "7ad14f422037ed6e": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-18280",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-18280",
+      "filehash": "b6ba14bb8453b5bd"
+    }
+  ],
+  "76fcc23b612624bb": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-557004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557004",
+      "filehash": "43807b9c2a98f770"
+    }
+  ],
+  "2942d3a161f7e7c9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-556963",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556963",
+      "filehash": "dcc0bac97ff4ff8e"
+    }
+  ],
+  "693ec7c10f2f2785": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-556963",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556963",
+      "filehash": "dcc0bac97ff4ff8e"
+    }
+  ],
+  "3d94f58751d2baac": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-556963",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556963",
+      "filehash": "dcc0bac97ff4ff8e"
+    }
+  ],
+  "49df8af5cc10cdbe": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-556044",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556044",
+      "filehash": "1e3c527c09fbb67d"
+    }
+  ],
+  "b2d2c7b56b489711": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-556044",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556044",
+      "filehash": "1e3c527c09fbb67d"
+    }
+  ],
+  "0a6ae97e247d8163": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-556044",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556044",
+      "filehash": "1e3c527c09fbb67d"
+    }
+  ],
+  "3f6f243fcfebc554": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-556464",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556464",
+      "filehash": "40b6f141b4dcdf7a"
+    }
+  ],
+  "5dcb5a584d941efc": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-556464",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556464",
+      "filehash": "40b6f141b4dcdf7a"
+    }
+  ],
+  "64f157851aea3f29": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-556464",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556464",
+      "filehash": "40b6f141b4dcdf7a"
+    }
+  ],
+  "38d00b8e116a54bd": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-17909",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-17909",
+      "filehash": "a008a2c1eac3ecc3"
+    }
+  ],
+  "a7d2223ff45e31e0": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-17909",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-17909",
+      "filehash": "a008a2c1eac3ecc3"
+    }
+  ],
+  "a59f0389a95287c4": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-17909",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-17909",
+      "filehash": "a008a2c1eac3ecc3"
+    }
+  ],
+  "b993ae3e5bfa1d94": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-559740",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559740",
+      "filehash": "0992e61a0daf519a"
+    }
+  ],
+  "9c4b1ac4a9a2d1a4": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-559740",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559740",
+      "filehash": "0992e61a0daf519a"
+    }
+  ],
+  "e227e2dc5a140d9d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-559740",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559740",
+      "filehash": "0992e61a0daf519a"
+    }
+  ],
+  "bb9506c72b7e0b1a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-557076",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557076",
+      "filehash": "9e6a66ecd80c6983"
+    }
+  ],
+  "40c6407dbb0806ed": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-557076",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557076",
+      "filehash": "9e6a66ecd80c6983"
+    }
+  ],
+  "c909e0781d8e1ad9": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-557076",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557076",
+      "filehash": "9e6a66ecd80c6983"
+    }
+  ],
+  "2cff431059e959b8": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-561488",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-561488",
+      "filehash": "0cd3971272dc0ab1"
+    }
+  ],
+  "1fc63d9160660acc": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-561488",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-561488",
+      "filehash": "0cd3971272dc0ab1"
+    }
+  ],
+  "4873e7d4e231042f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-561488",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-561488",
+      "filehash": "0cd3971272dc0ab1"
+    }
+  ],
+  "554e531b8a76d59e": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-557771",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557771",
+      "filehash": "7ae123ee45b8e682"
+    }
+  ],
+  "2c31bb2168bbb9da": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-557771",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557771",
+      "filehash": "7ae123ee45b8e682"
+    }
+  ],
+  "c01098d85b114ea7": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-557771",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557771",
+      "filehash": "7ae123ee45b8e682"
+    }
+  ],
+  "f2f3921efa128758": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-555823",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555823",
+      "filehash": "4cb501ae682de7fc"
+    }
+  ],
+  "a9c19144d10c14e7": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-555823",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555823",
+      "filehash": "4cb501ae682de7fc"
+    }
+  ],
+  "d09692dba99bbead": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-555823",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555823",
+      "filehash": "4cb501ae682de7fc"
+    }
+  ],
+  "6ed402fe51d45bda": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-554498",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-554498",
+      "filehash": "568d43a8e59db1f2"
+    }
+  ],
+  "638744619fca624c": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-554498",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-554498",
+      "filehash": "568d43a8e59db1f2"
+    }
+  ],
+  "46725f53e49deec7": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-554498",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-554498",
+      "filehash": "568d43a8e59db1f2"
+    }
+  ],
+  "a489b1c1eda39f90": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-555355",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555355",
+      "filehash": "1c51d68b95bcb031"
+    }
+  ],
+  "4e396b7ab9d3783d": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-555355",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555355",
+      "filehash": "1c51d68b95bcb031"
+    }
+  ],
+  "58534f17e3d306f5": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-555355",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-555355",
+      "filehash": "1c51d68b95bcb031"
+    }
+  ],
+  "389ee670c53a0ceb": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-557723",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557723",
+      "filehash": "14f7a51932209459"
+    }
+  ],
+  "5026298ff340a0a9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-557723",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557723",
+      "filehash": "14f7a51932209459"
+    }
+  ],
+  "61539028d01d0006": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-557723",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557723",
+      "filehash": "14f7a51932209459"
+    }
+  ],
+  "8875e8c39a1edde6": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-560836",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560836",
+      "filehash": "0c35ffe64228a702"
+    }
+  ],
+  "ba15e34f26e907a9": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-560836",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560836",
+      "filehash": "0c35ffe64228a702"
+    }
+  ],
+  "e01d1b7688fc910c": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-560836",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560836",
+      "filehash": "0c35ffe64228a702"
+    }
+  ],
+  "2aa9b9169885aa67": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-556537",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556537",
+      "filehash": "dae2b26cb3286202"
+    }
+  ],
+  "f6a8ad47e0fe6632": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-556537",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556537",
+      "filehash": "dae2b26cb3286202"
+    }
+  ],
+  "3fb4744a185f4fdd": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-556537",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556537",
+      "filehash": "dae2b26cb3286202"
+    }
+  ],
+  "03e08045b822e046": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-638049",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-638049",
+      "filehash": "cf548763b66d73d8"
+    }
+  ],
+  "c7f9e76a7a0c65ff": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-638049",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-638049",
+      "filehash": "cf548763b66d73d8"
+    }
+  ],
+  "3bd8dbec0791f786": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-638049",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-638049",
+      "filehash": "cf548763b66d73d8"
+    }
+  ],
+  "d4f14d6683aedb7a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-558598",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558598",
+      "filehash": "33a1692a7716ab92"
+    }
+  ],
+  "108ce939f8565486": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-558598",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558598",
+      "filehash": "33a1692a7716ab92"
+    }
+  ],
+  "d106b7df4cd0bbd3": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-558598",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558598",
+      "filehash": "33a1692a7716ab92"
+    }
+  ],
+  "b549d5216c19e784": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-600033",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600033",
+      "filehash": "8714077691bd58d7"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "SOD",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
+      "filehash": "57bda4dd0961fb31"
+    }
+  ],
+  "dda441b3c72f9749": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-600033",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600033",
+      "filehash": "8714077691bd58d7"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "SOD",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
+      "filehash": "57bda4dd0961fb31"
+    }
+  ],
+  "b85e22a530a8cf49": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-600033",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600033",
+      "filehash": "8714077691bd58d7"
+    },
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "SOD",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=SOD",
+      "filehash": "57bda4dd0961fb31"
+    }
+  ],
+  "fadbcaf5bf120d01": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-558891",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558891",
+      "filehash": "58b5ec114b12db6f"
+    }
+  ],
+  "b47dfcac6d973c7b": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-558891",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558891",
+      "filehash": "58b5ec114b12db6f"
+    }
+  ],
+  "a323efad43c46451": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-558891",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-558891",
+      "filehash": "58b5ec114b12db6f"
+    }
+  ],
+  "acf16b7d47313780": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-600026",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600026",
+      "filehash": "336bed252b2397e7"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "MVY",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
+      "filehash": "6bedb09bd6078245"
+    }
+  ],
+  "8274a26e7e79063d": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-600026",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600026",
+      "filehash": "336bed252b2397e7"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "MVY",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
+      "filehash": "6bedb09bd6078245"
+    }
+  ],
+  "2b039553ecb0d20f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-600026",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600026",
+      "filehash": "336bed252b2397e7"
+    }
+  ],
+  "9783cff96b149834": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-16964",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-16964",
+      "filehash": "aea42309d75b62df"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-556218",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556218",
+      "filehash": "a7b1b21b1a9e0c82"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-560826",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560826",
+      "filehash": "d7eff3a1fe17a664"
+    }
+  ],
+  "3073790793e062bf": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-16964",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-16964",
+      "filehash": "aea42309d75b62df"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-556218",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556218",
+      "filehash": "a7b1b21b1a9e0c82"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-560826",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560826",
+      "filehash": "d7eff3a1fe17a664"
+    }
+  ],
+  "574755df15c592db": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-16964",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-16964",
+      "filehash": "aea42309d75b62df"
+    }
+  ],
+  "ad4e767fd54d5a7f": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-556218",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-556218",
+      "filehash": "a7b1b21b1a9e0c82"
+    }
+  ],
+  "75dcf1f7f449999a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-600071",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600071",
+      "filehash": "cd5a99af83bc7861"
+    }
+  ],
+  "e2aa2d8f5a136354": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-600071",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600071",
+      "filehash": "cd5a99af83bc7861"
+    }
+  ],
+  "15c738a45d4dc820": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-600071",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600071",
+      "filehash": "cd5a99af83bc7861"
+    }
+  ],
+  "a6948dc65cb5ecce": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-600007",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600007",
+      "filehash": "f1e33c12a3f7277c"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "ATT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
+      "filehash": "f60ee8334331d4de"
+    }
+  ],
+  "2e692599d74c16ec": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-600007",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600007",
+      "filehash": "f1e33c12a3f7277c"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "ATT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
+      "filehash": "f60ee8334331d4de"
+    }
+  ],
+  "442f12f5732c53ed": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-600007",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600007",
+      "filehash": "f1e33c12a3f7277c"
+    }
+  ],
+  "9adb22bfddc7f6a7": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-560203",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560203",
+      "filehash": "a568e4a9b27cb9c4"
+    }
+  ],
+  "bdf2b58727a62a0a": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-560203",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560203",
+      "filehash": "a568e4a9b27cb9c4"
+    }
+  ],
+  "de8f23e29c8e42cb": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-560203",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560203",
+      "filehash": "a568e4a9b27cb9c4"
+    }
+  ],
+  "4cd3fc8df4d4d571": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-560826",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-560826",
+      "filehash": "d7eff3a1fe17a664"
+    }
+  ],
+  "3aa2b5c6f26a039a": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-600004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600004",
+      "filehash": "81b8e4f1b20fa89a"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "BIK",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
+      "filehash": "9611cf4a02462184"
+    }
+  ],
+  "1d465c8caec69b9d": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-600004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600004",
+      "filehash": "81b8e4f1b20fa89a"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "BIK",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
+      "filehash": "9611cf4a02462184"
+    }
+  ],
+  "0ca53705549f5671": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-600004",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-600004",
+      "filehash": "81b8e4f1b20fa89a"
+    },
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "BIK",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=BIK",
+      "filehash": "9611cf4a02462184"
+    }
+  ],
+  "847866298d5d81a1": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-559872",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559872",
+      "filehash": "2699048e9cb3a44c"
+    }
+  ],
+  "6a2dd44e5b08c7a4": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-559872",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559872",
+      "filehash": "2699048e9cb3a44c"
+    }
+  ],
+  "92ddd6b3b3697a34": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-559872",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-559872",
+      "filehash": "2699048e9cb3a44c"
+    }
+  ],
+  "16d677519e6535d5": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-1179529",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
+      "filehash": "193a5e7e87c11b2f"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-604717",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-604717",
+      "filehash": "cfa542a27a4f0338"
+    },
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-1353259",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
+      "filehash": "72d9f8b4db8f31ec"
+    }
+  ],
+  "af5dd2b066c8b3b1": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-1179529",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
+      "filehash": "193a5e7e87c11b2f"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-604717",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-604717",
+      "filehash": "cfa542a27a4f0338"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-1353259",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
+      "filehash": "72d9f8b4db8f31ec"
+    }
+  ],
+  "921941fdca7a2b23": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-1179529",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1179529",
+      "filehash": "193a5e7e87c11b2f"
+    },
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-1353259",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1353259",
+      "filehash": "72d9f8b4db8f31ec"
+    }
+  ],
+  "5f7e2ab69272ec8e": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-604717",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-604717",
+      "filehash": "cfa542a27a4f0338"
+    }
+  ],
+  "bbba773d92a238c2": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-557881",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-557881",
+      "filehash": "defd0e77d5902245"
+    }
+  ],
+  "5383f66e64682de6": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "CAN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
+      "filehash": "338b9317c4986dc9"
+    }
+  ],
+  "7b0a10a40181f6f6": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "CAN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
+      "filehash": "338b9317c4986dc9"
+    }
+  ],
+  "e1a5da6cbd20a073": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "CAN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=CAN",
+      "filehash": "338b9317c4986dc9"
+    }
+  ],
+  "b394b2b55c6b43c9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "NSI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
+      "filehash": "485f08e2e2361e5f"
+    }
+  ],
+  "0520e103b0f97da3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "NSI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
+      "filehash": "485f08e2e2361e5f"
+    }
+  ],
+  "d1a4a729a37d8760": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "NSI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=NSI",
+      "filehash": "485f08e2e2361e5f"
+    }
+  ],
+  "7ab0588227f8d597": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "EOS",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
+      "filehash": "6d15e4fc84d25cc4"
+    }
+  ],
+  "e0cdc0abc7349dc3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "EOS",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
+      "filehash": "6d15e4fc84d25cc4"
+    }
+  ],
+  "e791b1e5e792db96": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "EOS",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EOS",
+      "filehash": "6d15e4fc84d25cc4"
+    }
+  ],
+  "50acdc6002af4f96": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "ATT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=ATT",
+      "filehash": "f60ee8334331d4de"
+    }
+  ],
+  "712cf9173d310865": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "MVY",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=MVY",
+      "filehash": "6bedb09bd6078245"
+    }
+  ]
+}
