@@ -1,0 +1,83 @@
+{
+  "2cdd5f8416c1d201": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "JZT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=JZT",
+      "filehash": "14e10d41d3f5be91"
+    }
+  ],
+  "4a45f92691c7303e": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "JZT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=JZT",
+      "filehash": "14e10d41d3f5be91"
+    }
+  ],
+  "60e29a80c268dd7b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "JZT",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=JZT",
+      "filehash": "14e10d41d3f5be91"
+    }
+  ],
+  "4267bde52aac5e40": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "TER",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=TER",
+      "filehash": "21963057a0b269f7"
+    }
+  ],
+  "2a2b5fcf64227bd8": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "TER",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=TER",
+      "filehash": "21963057a0b269f7"
+    }
+  ],
+  "cab9a12c12100a7a": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "TER",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=TER",
+      "filehash": "21963057a0b269f7"
+    }
+  ],
+  "acdbaaf054161344": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "PTF",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PTF",
+      "filehash": "f27596b299d77813"
+    }
+  ],
+  "cdad46560fc306a7": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "PTF",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PTF",
+      "filehash": "f27596b299d77813"
+    }
+  ],
+  "8962b9da48e2f75e": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "PTF",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PTF",
+      "filehash": "f27596b299d77813"
+    }
+  ]
+}
