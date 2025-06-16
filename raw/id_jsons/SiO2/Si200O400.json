@@ -1,0 +1,29 @@
+{
+  "c305047fd82f3d14": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "EEI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EEI",
+      "filehash": "0e3ae6c48af96b51"
+    }
+  ],
+  "1d59a20b5c9dd874": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "EEI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EEI",
+      "filehash": "0e3ae6c48af96b51"
+    }
+  ],
+  "1698fdd1ed0bb750": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "EEI",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=EEI",
+      "filehash": "0e3ae6c48af96b51"
+    }
+  ]
+}
