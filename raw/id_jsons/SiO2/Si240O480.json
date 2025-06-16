@@ -1,0 +1,29 @@
+{
+  "a503e8af97ae7656": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "PWN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PWN",
+      "filehash": "f9df3fd54dd260ba"
+    }
+  ],
+  "1a9084b77d4e8897": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "PWN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PWN",
+      "filehash": "f9df3fd54dd260ba"
+    }
+  ],
+  "d6008c047a4b05ff": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "PWN",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=PWN",
+      "filehash": "f9df3fd54dd260ba"
+    }
+  ]
+}

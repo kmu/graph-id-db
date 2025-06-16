@@ -1,0 +1,81 @@
+{
+  "75d9165dd592367d": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-2218518",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218518",
+      "filehash": "ad6396b57636612d"
+    }
+  ],
+  "b08747eb8180b839": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-2218518",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218518",
+      "filehash": "ad6396b57636612d"
+    },
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-2218295",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218295",
+      "filehash": "34e8bfd850e3d712"
+    }
+  ],
+  "48466ec6fdfe83f7": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-2218518",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218518",
+      "filehash": "ad6396b57636612d"
+    }
+  ],
+  "da3810a01216eda9": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-2227822",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2227822",
+      "filehash": "49d6acd2bc98588c"
+    }
+  ],
+  "ba30689117e1b7b6": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-2227822",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2227822",
+      "filehash": "49d6acd2bc98588c"
+    }
+  ],
+  "c495fb37c3cf678d": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-2227822",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2227822",
+      "filehash": "49d6acd2bc98588c"
+    }
+  ],
+  "8ebd7e86d79acdc4": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-2218295",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218295",
+      "filehash": "34e8bfd850e3d712"
+    }
+  ],
+  "f568ea9eae74c146": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-2218295",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-2218295",
+      "filehash": "34e8bfd850e3d712"
+    }
+  ]
+}
