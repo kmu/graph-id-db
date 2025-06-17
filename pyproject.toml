@@ -1,14 +1,35 @@
 [tool.poetry]
 name = "graphid-db"
-version = "0.1.0"
-description = ""
+version = "0.0.1"
+description = "A database project for graph identification and processing"
 authors = ["Koki Muraoka <muraok_k@chemsys.t.u-tokyo.ac.jp>", "Taku Tamimoto <t_tanimoto@chemsys.t.u-tokyo.ac.jp>"]
 readme = "README.md"
+packages = [
+    {include = "filebase"},
+    {include = "graphid_db"}
+]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
+parsl = "^1.0.0"
+pymatgen = "^2023.0.0"
+tqdm = "^4.65.0"
+icecream = "^2.1.0"
 
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.0.0"
+pytest = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+# Add any command-line scripts here if needed
+# example = "filebase.main:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
