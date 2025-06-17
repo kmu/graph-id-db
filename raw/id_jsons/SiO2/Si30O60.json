@@ -1,0 +1,83 @@
+{
+  "f8ad98fefead01cb": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-1244945",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1244945",
+      "filehash": "3a371882a27e785d"
+    }
+  ],
+  "42f3de1da02c9aa3": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-1244945",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1244945",
+      "filehash": "3a371882a27e785d"
+    }
+  ],
+  "e1b7c8a578870e50": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-1244945",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-1244945",
+      "filehash": "3a371882a27e785d"
+    }
+  ],
+  "8dc54d06b2156014": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "mp-685184",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-685184",
+      "filehash": "c322a8b5f43d4c99"
+    }
+  ],
+  "7b37de59a7a4f3f2": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "mp-685184",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-685184",
+      "filehash": "c322a8b5f43d4c99"
+    }
+  ],
+  "96c62ad01b3cc95b": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "mp-685184",
+      "datasource": "MP",
+      "url": "https://next-gen.materialsproject.org/materials/mp-685184",
+      "filehash": "c322a8b5f43d4c99"
+    }
+  ],
+  "d2f49ed905c384ca": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "AFV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AFV",
+      "filehash": "a72ea3fb344dbec4"
+    }
+  ],
+  "89d425e5ca2a8d41": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "AFV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AFV",
+      "filehash": "a72ea3fb344dbec4"
+    }
+  ],
+  "2604986f06efa933": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "AFV",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=AFV",
+      "filehash": "a72ea3fb344dbec4"
+    }
+  ]
+}
