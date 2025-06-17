@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "graphid-db"
+version = "0.1.0"
+description = ""
+authors = ["Koki Muraoka <muraok_k@chemsys.t.u-tokyo.ac.jp>", "Taku Tamimoto <t_tanimoto@chemsys.t.u-tokyo.ac.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
