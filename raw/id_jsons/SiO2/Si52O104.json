@@ -1,0 +1,29 @@
+{
+  "479194f8447b9a75": [
+    {
+      "graph_id_type": "md_id",
+      "proprietary_id": "IRR",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=IRR",
+      "filehash": "e3f014064f76c858"
+    }
+  ],
+  "4cd85f54093a21c2": [
+    {
+      "graph_id_type": "topo_md_id",
+      "proprietary_id": "IRR",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=IRR",
+      "filehash": "e3f014064f76c858"
+    }
+  ],
+  "64a7c6e30790a8ff": [
+    {
+      "graph_id_type": "dc_id",
+      "proprietary_id": "IRR",
+      "datasource": "IZA",
+      "url": "https://asia.iza-structure.org/IZA-SC/framework.php?STC=IRR",
+      "filehash": "e3f014064f76c858"
+    }
+  ]
+}
