@@ -25,4 +25,13 @@ class Finder:
 
             return None
         else:
+            hash_prefix_2 = graph_id[:2]
+            hash_prefix_4 = graph_id[:4]
+
+            db_path = DB_PATH / hash_prefix_2 / f"{hash_prefix_4}.json"
+            if db_path.exists():
+                with open(db_path) as f:
+                    docs = json.load(f)
+                    return docs.get(graph_id)
+
             return None
