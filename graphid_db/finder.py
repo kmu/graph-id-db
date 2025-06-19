@@ -6,7 +6,7 @@ DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
 
 class Finder:
-    def find(self, graph_id: str) -> Optional[dict[str, list]]:
+    def find(self, graph_id: str) -> Optional[dict[str, list[dict[str, str]]]]:
         dir_name = graph_id[:2]
         file_name = graph_id[:4]
 
