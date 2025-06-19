@@ -6,8 +6,8 @@ from typing import Any, Optional
 
 from graphid_db.finder import Finder
 
-TEST_PATH = Path(__file__).parent / "test_files"
-graphids_path = TEST_PATH / "graphids.csv"
+FILE_PATH = Path(__file__).parent / "benchmark_files"
+graphids_path = FILE_PATH / "graphids.csv"
 graphids_df = pd.read_csv(graphids_path)
 
 start_time = time.time()
