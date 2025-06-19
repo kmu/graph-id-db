@@ -2,7 +2,6 @@ import json
 from pathlib import Path
 from typing import Any, Optional
 
-
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
 
