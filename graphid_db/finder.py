@@ -1,4 +1,4 @@
-import json
+import orjson
 from pathlib import Path
 from typing import Optional
 
@@ -13,7 +13,7 @@ class Finder:
         db_path = DB_PATH / dir_name / f"{file_name}.json"
         if db_path.exists():
             with open(db_path) as f:
-                docs = json.load(f)
+                docs = orjson.loads(f.read())
                 return docs.get(graph_id)
 
         return None
