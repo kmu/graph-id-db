@@ -1,14 +1,13 @@
 import json
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Optional
 
-from pymatgen.core import Composition
 
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
 
 class Finder:
-    def find(self, graph_id: str) -> Optional[Dict[str, Any]]:
+    def find(self, graph_id: str) -> Optional[dict[str, Any]]:
         dir_name = graph_id[:2]
         file_name = graph_id[:4]
 
