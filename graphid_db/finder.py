@@ -1,6 +1,7 @@
-import orjson
 from pathlib import Path
 from typing import Optional
+
+import orjson
 
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
