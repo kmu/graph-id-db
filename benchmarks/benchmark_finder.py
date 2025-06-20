@@ -1,8 +1,6 @@
 import time
-import json
 import pandas as pd
 from pathlib import Path
-from typing import Any, Optional
 
 from graphid_db.finder import Finder
 
