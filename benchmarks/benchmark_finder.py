@@ -1,6 +1,7 @@
 import time
-import pandas as pd
 from pathlib import Path
+
+import pandas as pd
 
 from graphid_db.finder import Finder
 
