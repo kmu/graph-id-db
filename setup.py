@@ -7,8 +7,9 @@ AUTHOR_EMAIL = 'muraok_k@chemsys.t.u-tokyo.ac.jp, t_tanimoto@chemsys.t.u-tokyo.a
 URL = 'https://github.com/chemsys/graphid-db'
 LICENSE = 'MIT'
 DOWNLOAD_URL = 'https://github.com/chemsys/graphid-db'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 PYTHON_REQUIRES = ">=3.9"
+package_data = {'graphid_db' : ['raw/id_jsons/*.json']}
 
 INSTALL_REQUIRES = [
     'pymatgen>=2024.2.20',
@@ -17,9 +18,14 @@ INSTALL_REQUIRES = [
 
 
 PACKAGES = [
-    'filebase',
-    'graphid_db'
+    'graphid_db',
+    'raw',
+    'raw.id_jsons',
 ]
+
+PACKAGE_DATA = {
+    'graphid_db': ['raw/id_jsons/*.json']
+}
 
 
 setup(name=NAME,
@@ -35,4 +41,5 @@ setup(name=NAME,
       python_requires=PYTHON_REQUIRES,
       install_requires=INSTALL_REQUIRES,
       packages=PACKAGES,
+      package_data=PACKAGE_DATA,
     )
