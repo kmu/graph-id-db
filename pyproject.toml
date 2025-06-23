@@ -11,8 +11,6 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-tqdm = "^4.65.0"
-icecream = "^2.1.0"
 orjson = "^3.10"
 
 [tool.poetry.group.dev.dependencies]
