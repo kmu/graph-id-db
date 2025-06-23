@@ -1,28 +1,22 @@
-import json
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Optional
 
-from pymatgen.core import Composition
+import orjson
 
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
 
 class Finder:
-    def find(self, graph_id: str) -> Optional[Dict[str, Any]]:
-        if "-" in graph_id:
-            composition_str, graph_hash = graph_id.split("-")
-            composition = Composition(composition_str)
+    def find(self, graph_id: str) -> Optional[dict[str, list[dict[str, str]]]]:
+        ret_dict: Optional[dict[str, list[dict[str, str]]]] = None
 
-            db_path = (
-                DB_PATH
-                / composition.reduced_formula
-                / f"{composition.formula}.json"
-            )
-            if db_path.exists():
-                with open(db_path) as f:
-                    docs = json.load(f)
-                    return docs.get(graph_hash)
+        dir_name = graph_id[:2]
+        file_name = graph_id[:4]
 
-            return None
-        else:
-            return None
+        db_path = DB_PATH / dir_name / f"{file_name}.json"
+        if db_path.exists():
+            with open(db_path) as f:
+                docs = orjson.loads(f.read())
+                ret_dict = docs.get(graph_id)
+
+        return ret_dict
