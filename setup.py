@@ -1,5 +1,4 @@
 from setuptools import setup
-from graphid_db.finder import Finder
 
 DESCRIPTION = "A database project for graph identification and processing"
 NAME = 'graphid-db'
