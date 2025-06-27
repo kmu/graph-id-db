@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "graphid-db"
-version = "0.1.1"
+version = "1.0.0"
 description = "A database project for graph identification and processing"
 authors = ["Koki Muraoka <muraok_k@chemsys.t.u-tokyo.ac.jp>", "Taku Tamimoto <t_tanimoto@chemsys.t.u-tokyo.ac.jp>"]
 readme = "README.md"
