@@ -2,7 +2,7 @@
 
 ## Installation
 
-### From pypi (in progress)
+### From pypi
 ```
 pip install graphid-db
 ```
