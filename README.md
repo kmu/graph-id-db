@@ -3,6 +3,9 @@
 ## Installation
 
 ### From pypi (in progress)
+```
+pip install graphid-db
+```
 
 ### From github
 ```
