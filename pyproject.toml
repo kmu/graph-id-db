@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "graphid-db"
-version = "0.1.0"
+version = "0.1.1"
 description = "A database project for graph identification and processing"
 authors = ["Koki Muraoka <muraok_k@chemsys.t.u-tokyo.ac.jp>", "Taku Tamimoto <t_tanimoto@chemsys.t.u-tokyo.ac.jp>"]
 readme = "README.md"
 packages = [
     {include = "filebase"},
-    {include = "graphid_db"}
+    {include = "graphid_db"},
+    {include = "raw"}
 ]
 
 [tool.poetry.dependencies]
