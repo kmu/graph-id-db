@@ -4,14 +4,14 @@
 
 ### From pypi
 ```
-pip install graphid-db
+pip install graph-id-db
 ```
 
 ### From github
 ```
 git clone git@github.com:kmu/graphid-db.git
-conda create -n graphid-db python=3.11
-conda activate graphid-db
+conda create -n graph-id-db python=3.11
+conda activate graph-id-db
 python -m build
 pip install dist/*.whl
 ```
