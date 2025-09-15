@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from graphid_db.finder import Finder
+from graph_id_db.finder import Finder
 
 FILE_PATH = Path(__file__).parent / "benchmark_files"
 graphids_path = FILE_PATH / "graphids.csv"

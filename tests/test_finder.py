@@ -1,4 +1,4 @@
-from graphid_db.finder import Finder
+from graph_id_db.finder import Finder
 
 
 def test_hash():
