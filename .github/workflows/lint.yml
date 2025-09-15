@@ -43,4 +43,4 @@ jobs:
       run: poetry run ruff format --check .
 
     - name: Run mypy
-      run: poetry run mypy graphid_db/
+      run: poetry run mypy graph_id_db/
