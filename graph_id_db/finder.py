@@ -1,9 +1,8 @@
 from pathlib import Path
-from typing import Optional
-from huggingface_hub import hf_hub_download
-from huggingface_hub.utils import EntryNotFoundError
 
 import orjson
+from huggingface_hub import hf_hub_download
+from huggingface_hub.utils import EntryNotFoundError
 
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
@@ -11,24 +10,24 @@ class Finder:
     def find(self, graph_id: str, is_fast: bool = False) -> list[dict[str, str]]:
         """
         Args:
-            graph_id(str): GraphID calculated using graph-id-core 
-            is_fast(bool): If True, find only on-memory entries (from IZA and Materials Project) 
+            graph_id(str): GraphID calculated using graph-id-core
+            is_fast(bool): If True, find only on-memory entries (from IZA and Materials Project)
         """
         if is_fast:
             return self.find_fast(graph_id)
-        
+
         else:
             ret_dict = []
             fast_graph_ids = self.find_fast(graph_id)
             if fast_graph_ids:
                 ret_dict += fast_graph_ids
-            
+
             aflow_graph_ids = self.find_aflow_entries(graph_id)
             if aflow_graph_ids:
                 ret_dict += aflow_graph_ids
 
             return ret_dict
-        
+
 
     def find_fast(self, graph_id: str) -> list[dict[str, str]]:
         """
@@ -53,7 +52,7 @@ class Finder:
         Find only AFLOW entries.
         """
         ret_dict = []
-        
+
         dir_name = graph_id[:2]
         file_name = graph_id[:4]
 
