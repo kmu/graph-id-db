@@ -6,8 +6,11 @@ from huggingface_hub.utils import EntryNotFoundError
 
 DB_PATH = Path(__file__).parent.parent / "raw/id_jsons"
 
+
 class Finder:
-    def find(self, graph_id: str, is_fast: bool = False) -> list[dict[str, str]]:
+    def find(
+        self, graph_id: str, is_fast: bool = False
+    ) -> list[dict[str, str]]:
         """
         Args:
             graph_id(str): GraphID calculated using graph-id-core
@@ -28,7 +31,6 @@ class Finder:
 
             return ret_dict
 
-
     def find_fast(self, graph_id: str) -> list[dict[str, str]]:
         """
         Find only on-memory entries.
@@ -47,7 +49,7 @@ class Finder:
 
         return ret_dict
 
-    def find_aflow_entries(self, graph_id:str) -> list[dict[str, str]]:
+    def find_aflow_entries(self, graph_id: str) -> list[dict[str, str]]:
         """
         Find only AFLOW entries.
         """
@@ -57,7 +59,11 @@ class Finder:
         file_name = graph_id[:4]
 
         try:
-            local_path = hf_hub_download(repo_id="kamabata/aflow_graph_ids", filename=f"id_jsons/{dir_name}/{file_name}.json", repo_type="dataset")
+            local_path = hf_hub_download(
+                repo_id="kamabata/aflow_graph_ids",
+                filename=f"id_jsons/{dir_name}/{file_name}.json",
+                repo_type="dataset",
+            )
 
             with open(local_path) as f:
                 docs = orjson.loads(f.read())

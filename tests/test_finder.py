@@ -35,5 +35,8 @@ def test_aflow():
         aflow_docs[0]["url"]
         == "https://aflow.org/material/?id=aflow:06966bc7b36b2343"
     )
-    assert aflow_docs[0]["filehash"] == "3ecb4cc4656f22e6c424f3fbaa0d2d4e62cfe1f827857072197ca3a31db16b78"
+    assert (
+        aflow_docs[0]["filehash"]
+        == "3ecb4cc4656f22e6c424f3fbaa0d2d4e62cfe1f827857072197ca3a31db16b78"
+    )
     assert len(aflow_docs) == 2
