@@ -21,6 +21,7 @@ pytest-cov = "^4.0.0"
 ruff = "^0.4.5"
 mypy = "^1.10.0"
 codespell = "^2.3.1"
+huggingface-hub = "^0.35.3"
 
 [build-system]
 requires = ["poetry-core"]
@@ -101,5 +102,6 @@ module = [
     "tqdm.*",
     "icecream.*",
     "orjson.*",
+    "huggingface_hub.*",
 ]
 ignore_missing_imports = true
