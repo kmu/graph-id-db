@@ -6,7 +6,7 @@ authors = ["Koki Muraoka <muraok_k@chemsys.t.u-tokyo.ac.jp>", "Taku Tamimoto <t_
 readme = "README.md"
 packages = [
     {include = "filebase"},
-    {include = "graphid_db"},
+    {include = "graph_id_db"},
     {include = "raw"}
 ]
 
