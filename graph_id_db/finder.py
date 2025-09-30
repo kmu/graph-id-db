@@ -43,7 +43,8 @@ class Finder:
         if db_path.exists():
             with open(db_path) as f:
                 docs = orjson.loads(f.read())
-                ret_dict = docs.get(graph_id)
+                if docs.get(graph_id):
+                    ret_dict = docs.get(graph_id)
 
         return ret_dict
 
@@ -61,7 +62,8 @@ class Finder:
 
             with open(local_path) as f:
                 docs = orjson.loads(f.read())
-                ret_dict = docs.get(graph_id)
+                if docs.get(graph_id):
+                    ret_dict = docs.get(graph_id)
 
             return ret_dict
         except EntryNotFoundError:
