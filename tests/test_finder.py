@@ -18,4 +18,4 @@ def test_hash():
 def test_not_found_hash():
     finder = Finder()
     docs = finder.find("xxxx")
-    assert docs is None
+    assert docs == []

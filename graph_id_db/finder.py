@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import Optional
 from huggingface_hub import hf_hub_download
+from huggingface_hub.utils import EntryNotFoundError
 
 import orjson
 
@@ -55,10 +56,13 @@ class Finder:
         dir_name = graph_id[:2]
         file_name = graph_id[:4]
 
-        local_path = hf_hub_download(repo_id="kamabata/aflow_graph_ids", filename=f"id_jsons/{dir_name}/{file_name}.json", repo_type="dataset")
+        try:
+            local_path = hf_hub_download(repo_id="kamabata/aflow_graph_ids", filename=f"id_jsons/{dir_name}/{file_name}.json", repo_type="dataset")
 
-        with open(local_path) as f:
-            docs = orjson.loads(f.read())
-            ret_dict = docs.get(graph_id)
+            with open(local_path) as f:
+                docs = orjson.loads(f.read())
+                ret_dict = docs.get(graph_id)
 
-        return ret_dict
+            return ret_dict
+        except EntryNotFoundError:
+            return []
