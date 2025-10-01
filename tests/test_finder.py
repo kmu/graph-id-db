@@ -41,6 +41,7 @@ def test_aflow():
     )
     assert len(aflow_docs) == 2
 
+
 def test_oqmd():
     finder = Finder()
 
@@ -51,10 +52,7 @@ def test_oqmd():
     assert oqmd_docs[0]["graph_id_type"] == "dc_id"
     assert oqmd_docs[0]["proprietary_id"] == "573130"
     assert oqmd_docs[0]["datasource"] == "OQMD"
-    assert (
-        oqmd_docs[0]["url"]
-        == "https://oqmd.org/materials/entry/573130"
-    )
+    assert oqmd_docs[0]["url"] == "https://oqmd.org/materials/entry/573130"
     assert (
         oqmd_docs[0]["filehash"]
         == "2da53b97cd761297533512ab3df4c400add0d6bf841585a1afff727f927ff171"
