@@ -40,3 +40,23 @@ def test_aflow():
         == "3ecb4cc4656f22e6c424f3fbaa0d2d4e62cfe1f827857072197ca3a31db16b78"
     )
     assert len(aflow_docs) == 2
+
+def test_oqmd():
+    finder = Finder()
+
+    fast_docs = finder.find("00000278540685fb", is_fast=True)
+    oqmd_docs = finder.find("00000278540685fb")
+
+    assert fast_docs == []
+    assert oqmd_docs[0]["graph_id_type"] == "dc_id"
+    assert oqmd_docs[0]["proprietary_id"] == "573130"
+    assert oqmd_docs[0]["datasource"] == "OQMD"
+    assert (
+        oqmd_docs[0]["url"]
+        == "https://oqmd.org/materials/entry/573130"
+    )
+    assert (
+        oqmd_docs[0]["filehash"]
+        == "2da53b97cd761297533512ab3df4c400add0d6bf841585a1afff727f927ff171"
+    )
+    assert len(oqmd_docs) == 1

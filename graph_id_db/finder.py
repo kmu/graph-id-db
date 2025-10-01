@@ -29,6 +29,10 @@ class Finder:
             if aflow_graph_ids:
                 ret_dict += aflow_graph_ids
 
+            oqmd_graph_ids = self.find_oqmd_entries(graph_id)
+            if oqmd_graph_ids:
+                ret_dict += oqmd_graph_ids
+
             return ret_dict
 
     def find_fast(self, graph_id: str) -> list[dict[str, str]]:
@@ -61,6 +65,31 @@ class Finder:
         try:
             local_path = hf_hub_download(
                 repo_id="kamabata/aflow_graph_ids",
+                filename=f"id_jsons/{dir_name}/{file_name}.json",
+                repo_type="dataset",
+            )
+
+            with open(local_path) as f:
+                docs = orjson.loads(f.read())
+                if docs.get(graph_id):
+                    ret_dict = docs.get(graph_id)
+
+            return ret_dict
+        except EntryNotFoundError:
+            return []
+
+    def find_oqmd_entries(self, graph_id: str) -> list[dict[str, str]]:
+        """
+        Find only OQMD entries.
+        """
+        ret_dict = []
+
+        dir_name = graph_id[:2]
+        file_name = graph_id[:4]
+
+        try:
+            local_path = hf_hub_download(
+                repo_id="kamabata/oqmd_graph_ids",
                 filename=f"id_jsons/{dir_name}/{file_name}.json",
                 repo_type="dataset",
             )
