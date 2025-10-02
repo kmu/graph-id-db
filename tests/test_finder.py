@@ -58,3 +58,21 @@ def test_oqmd():
         == "2da53b97cd761297533512ab3df4c400add0d6bf841585a1afff727f927ff171"
     )
     assert len(oqmd_docs) == 1
+
+
+def test_pcod():
+    finder = Finder()
+
+    fast_docs = finder.find("00006e42109d6854", is_fast=True)
+    pcod_docs = finder.find("00006e42109d6854")
+
+    assert fast_docs == []
+    assert pcod_docs[0]["graph_id_type"] == "md_id"
+    assert pcod_docs[0]["proprietary_id"] == "8283166"
+    assert pcod_docs[0]["datasource"] == "PCOD"
+    assert (
+        pcod_docs[0]["url"]
+        == "https://www.crystallography.net/pcod/cif/8/828/8283166.cif"
+    )
+    assert pcod_docs[0]["filehash"] is None
+    assert len(pcod_docs) == 2
