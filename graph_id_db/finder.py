@@ -107,7 +107,6 @@ class Finder:
         except EntryNotFoundError:
             return []
 
-
     def find_pcod_entries(self, graph_id: str) -> list[dict[str, str]]:
         """
         Find only PCOD entries.

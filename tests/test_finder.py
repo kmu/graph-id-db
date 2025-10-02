@@ -59,6 +59,7 @@ def test_oqmd():
     )
     assert len(oqmd_docs) == 1
 
+
 def test_pcod():
     finder = Finder()
 
@@ -69,6 +70,9 @@ def test_pcod():
     assert pcod_docs[0]["graph_id_type"] == "md_id"
     assert pcod_docs[0]["proprietary_id"] == "8283166"
     assert pcod_docs[0]["datasource"] == "PCOD"
-    assert pcod_docs[0]["url"] == "https://www.crystallography.net/pcod/cif/8/828/8283166.cif"
+    assert (
+        pcod_docs[0]["url"]
+        == "https://www.crystallography.net/pcod/cif/8/828/8283166.cif"
+    )
     assert pcod_docs[0]["filehash"] is None
     assert len(pcod_docs) == 2
